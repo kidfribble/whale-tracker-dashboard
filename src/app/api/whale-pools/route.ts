@@ -12,7 +12,7 @@ export async function GET() {
       const fileContents = await readFile(filePath, 'utf-8');
       const whalePools = JSON.parse(fileContents);
       return NextResponse.json(whalePools);
-    } catch (_) {
+    } catch {
       return NextResponse.json([], { status: 200 });
     }
   } catch (error) {

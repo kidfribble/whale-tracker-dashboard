@@ -1,13 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { fetchTrades } from '@/lib/api';
 
-// Define WhaleTrader type
-type WhaleTrader = {
-  address: string;
-  totalVolume: number;
-  tradeCount: number;
-  lastTradeTimestamp: string;
-};
 
 // Define Trade type
 type Trade = {
