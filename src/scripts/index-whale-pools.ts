@@ -38,6 +38,14 @@ async function ensureDirectoryExists(dirPath: string) {
   }
 }
 
+type NetworkError = {
+  code?: string;
+  response?: {
+    status?: number;
+  };
+  message?: string;
+};
+
 async function fetchWithRetry<T>(
   operation: () => Promise<T>,
   operationName: string,
@@ -45,14 +53,15 @@ async function fetchWithRetry<T>(
 ): Promise<T> {
   try {
     return await operation();
-  } catch (err: any) {
+  } catch (err) {
+    const error = err as NetworkError;
     if (retryCount < MAX_RETRIES && (
-      err.code === 'ECONNRESET' || 
-      err.code === 'ETIMEDOUT' ||
-      err.response?.status === 429
+      error.code === 'ECONNRESET' || 
+      error.code === 'ETIMEDOUT' ||
+      error.response?.status === 429
     )) {
       const waitTime = RETRY_DELAY * Math.pow(2, retryCount); // Exponential backoff
-      console.log(`🔄 ${operationName}: Retry ${retryCount + 1}/${MAX_RETRIES} after error: ${err.code || err.response?.status}`);
+      console.log(`🔄 ${operationName}: Retry ${retryCount + 1}/${MAX_RETRIES} after error: ${error.code || error.response?.status}`);
       console.log(`⏳ Waiting ${waitTime/1000} seconds before retry...`);
       await delay(waitTime);
       return fetchWithRetry(operation, operationName, retryCount + 1);

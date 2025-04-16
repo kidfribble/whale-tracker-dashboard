@@ -1,7 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { fetchTrades } from '@/lib/api';
-import { readFile } from 'fs/promises';
-import path from 'path';
 
 // Define WhaleTrader type
 type WhaleTrader = {
@@ -11,12 +9,16 @@ type WhaleTrader = {
   lastTradeTimestamp: string;
 };
 
-// Define WhalePool type
-type WhalePool = {
-  network: string;
-  name: string;
-  address: string;
-  whaleTraders: WhaleTrader[];
+// Define Trade type
+type Trade = {
+  attributes?: {
+    volume_in_usd?: string;
+    block_timestamp?: string;
+    kind?: string;
+    tx_from_address?: string;
+  };
+  id?: string;
+  type?: string;
 };
 
 export async function GET(request: NextRequest) {
@@ -41,20 +43,20 @@ export async function GET(request: NextRequest) {
     // If whaleAddress is provided, filter trades by that address
     if (whaleAddress) {
       const filteredTrades = trades.filter(
-        (trade: any) => trade.attributes?.tx_from_address?.toLowerCase() === whaleAddress.toLowerCase()
+        (trade: Trade) => trade.attributes?.tx_from_address?.toLowerCase() === whaleAddress.toLowerCase()
       );
       return NextResponse.json(filteredTrades);
     }
 
     // Return all trades if no whale address filter
     return NextResponse.json(trades);
-  } catch (error: any) {
+  } catch (error) {
     // Log the error for debugging
     console.error('Error fetching trades:', error);
     
     // Return appropriate error response
-    const status = error.response?.status || 500;
-    const message = error.response?.data?.error || 'Failed to fetch trades';
+    const status = (error as { response?: { status?: number } }).response?.status || 500;
+    const message = (error as { response?: { data?: { error?: string } } }).response?.data?.error || 'Failed to fetch trades';
     
     return NextResponse.json(
       { error: message },

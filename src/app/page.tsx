@@ -67,15 +67,15 @@ export default function Dashboard() {
         if (!selectedNetwork && uniqueNetworks.length > 0) {
           setSelectedNetwork(uniqueNetworks[0].id);
         }
-      } catch (err) {
-        console.error('Failed to load networks from API');
+      } catch (error) {
+        console.error('Failed to load networks from API', error);
       } finally {
         setIsLoadingNetworks(false);
       }
     };
 
     loadNetworks();
-  }, []);
+  }, [selectedNetwork]);
 
   // Load pools for selected network
   useEffect(() => {
@@ -95,8 +95,8 @@ export default function Dashboard() {
           // Clear selected pool if no pools available
           setSelectedPool('');
         }
-      } catch (err) {
-        console.error('Failed to load pools');
+      } catch (error) {
+        console.error('Failed to load pools', error);
         setPools([]);
         setSelectedPool('');
       } finally {
@@ -143,15 +143,15 @@ export default function Dashboard() {
 
         // Safely filter and sort trades with null checks
         const sorted = responseData
-          .filter((t: any) => {
+          .filter((t: Trade) => {
             // Safely check if the trade has the required attributes
             if (!t?.attributes?.volume_in_usd) return false;
             const volume = parseFloat(t.attributes.volume_in_usd);
             return !isNaN(volume) && volume > 10000;
           })
-          .sort((a: any, b: any) => {
-            const volumeA = parseFloat(a.attributes.volume_in_usd) || 0;
-            const volumeB = parseFloat(b.attributes.volume_in_usd) || 0;
+          .sort((a: Trade, b: Trade) => {
+            const volumeA = parseFloat(a.attributes?.volume_in_usd || '0') || 0;
+            const volumeB = parseFloat(b.attributes?.volume_in_usd || '0') || 0;
             return volumeB - volumeA;
           });
 
@@ -163,10 +163,10 @@ export default function Dashboard() {
         } else {
           setError(null);
         }
-      } catch (err) {
-        console.error('Failed to fetch trades:', err);
+      } catch (error) {
+        console.error('Failed to fetch trades:', error);
         setTrades([]);
-        setError(err instanceof Error ? err.message : 'Failed to fetch trades');
+        setError(error instanceof Error ? error.message : 'Failed to fetch trades');
       } finally {
         setIsLoadingTrades(false);
       }

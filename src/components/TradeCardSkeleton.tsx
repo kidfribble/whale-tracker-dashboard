@@ -1,5 +1,3 @@
-import Shimmer from './Shimmer';
-
 const TradeCardSkeleton = () => {
   return (
     <div className="border p-4 rounded shadow bg-white">
@@ -12,4 +10,4 @@ const TradeCardSkeleton = () => {
   );
 };
 
-export default TradeCardSkeleton; 
+export default TradeCardSkeleton;
