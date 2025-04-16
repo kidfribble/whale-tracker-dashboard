@@ -1,103 +1,251 @@
-import Image from "next/image";
+'use client';
 
-export default function Home() {
+import { useEffect, useState } from 'react';
+import NetworkSelector from '@/components/NetworkSelector';
+import PoolSelector from '@/components/PoolSelector';
+import WhaleTraderSelector from '@/components/WhaleTraderSelector';
+import TradeCardSkeleton from '@/components/TradeCardSkeleton';
+import Shimmer from '@/components/Shimmer';
+
+type Network = {
+  id: string;
+  attributes: {
+    name: string;
+  };
+};
+
+type WhaleTrader = {
+  address: string;
+  totalVolume: number;
+  tradeCount: number;
+  lastTradeTimestamp: string;
+};
+
+type WhalePool = {
+  network: string;
+  name: string;
+  address: string;
+  whaleTraders: WhaleTrader[];
+};
+
+type Trade = {
+  attributes: {
+    volume_in_usd: string;
+    block_timestamp: string;
+    kind: string;
+    tx_from_address: string;
+  };
+  id?: string;
+  type?: string;
+};
+
+export default function Dashboard() {
+  const [networks, setNetworks] = useState<Network[]>([]);
+  const [selectedNetwork, setSelectedNetwork] = useState<string>('eth');
+  const [pools, setPools] = useState<WhalePool[]>([]);
+  const [selectedPool, setSelectedPool] = useState<string>('');
+  const [selectedWhaleTrader, setSelectedWhaleTrader] = useState<string>('');
+  const [trades, setTrades] = useState<Trade[]>([]);
+  const [error, setError] = useState<string | null>(null);
+  const [isLoadingNetworks, setIsLoadingNetworks] = useState<boolean>(false);
+  const [isLoadingPools, setIsLoadingPools] = useState<boolean>(false);
+  const [isLoadingTrades, setIsLoadingTrades] = useState<boolean>(false);
+
+  // Load available networks
+  useEffect(() => {
+    const loadNetworks = async () => {
+      setIsLoadingNetworks(true);
+      try {
+        const res = await fetch('/api/whale-pools');
+        const data: WhalePool[] = await res.json();
+
+        const uniqueNetworks = Array.from(
+          new Set(data.map((p) => p.network))
+        ).map((id) => ({ id, attributes: { name: id } }));
+
+        setNetworks(uniqueNetworks);
+        if (!selectedNetwork && uniqueNetworks.length > 0) {
+          setSelectedNetwork(uniqueNetworks[0].id);
+        }
+      } catch (err) {
+        console.error('Failed to load networks from API');
+      } finally {
+        setIsLoadingNetworks(false);
+      }
+    };
+
+    loadNetworks();
+  }, []);
+
+  // Load pools for selected network
+  useEffect(() => {
+    const loadPools = async () => {
+      setIsLoadingPools(true);
+      try {
+        const res = await fetch('/api/whale-pools');
+        const allPools: WhalePool[] = await res.json();
+
+        const filtered = allPools.filter((p) => p.network === selectedNetwork);
+        setPools(filtered);
+
+        // Only set selected pool if we have pools and current selection is invalid
+        if (filtered.length > 0 && !filtered.some(p => p.address === selectedPool)) {
+          setSelectedPool(filtered[0].address);
+        } else if (filtered.length === 0) {
+          // Clear selected pool if no pools available
+          setSelectedPool('');
+        }
+      } catch (err) {
+        console.error('Failed to load pools');
+        setPools([]);
+        setSelectedPool('');
+      } finally {
+        setIsLoadingPools(false);
+      }
+    };
+
+    if (selectedNetwork) loadPools();
+  }, [selectedNetwork, selectedPool]);
+
+  // Load trades for selected pool
+  useEffect(() => {
+    const loadTrades = async () => {
+      // Clear any existing error first
+      setError(null);
+      
+      // Only proceed if we have both network and pool
+      if (!selectedNetwork || !selectedPool || !pools.length) {
+        setTrades([]);
+        return;
+      }
+
+      setIsLoadingTrades(true);
+      try {
+        // Build the API URL with optional whale address filter
+        let apiUrl = `/api/geckoterminal/trades?network=${selectedNetwork}&pool=${selectedPool}`;
+        if (selectedWhaleTrader) {
+          apiUrl += `&whaleAddress=${selectedWhaleTrader}`;
+        }
+        
+        const res = await fetch(apiUrl);
+        if (!res.ok) {
+          throw new Error(`HTTP error! status: ${res.status}`);
+        }
+        
+        const responseData = await res.json();
+        // Check if the response has the expected structure
+        if (!responseData || !Array.isArray(responseData)) {
+          console.error('Unexpected response format:', responseData);
+          setTrades([]);
+          setError('Invalid response format from API');
+          return;
+        }
+
+        // Safely filter and sort trades with null checks
+        const sorted = responseData
+          .filter((t: any) => {
+            // Safely check if the trade has the required attributes
+            if (!t?.attributes?.volume_in_usd) return false;
+            const volume = parseFloat(t.attributes.volume_in_usd);
+            return !isNaN(volume) && volume > 10000;
+          })
+          .sort((a: any, b: any) => {
+            const volumeA = parseFloat(a.attributes.volume_in_usd) || 0;
+            const volumeB = parseFloat(b.attributes.volume_in_usd) || 0;
+            return volumeB - volumeA;
+          });
+
+        setTrades(sorted);
+        
+        // Only show error if no trades were found
+        if (sorted.length === 0) {
+          setError('No whale trades found for this pool.');
+        } else {
+          setError(null);
+        }
+      } catch (err) {
+        console.error('Failed to fetch trades:', err);
+        setTrades([]);
+        setError(err instanceof Error ? err.message : 'Failed to fetch trades');
+      } finally {
+        setIsLoadingTrades(false);
+      }
+    };
+
+    loadTrades();
+  }, [selectedNetwork, selectedPool, selectedWhaleTrader, pools]);
+
   return (
-    <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-      <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="list-inside list-decimal text-sm/6 text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-          <li className="mb-2 tracking-[-.01em]">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-[family-name:var(--font-geist-mono)] font-semibold">
-              src/app/page.tsx
-            </code>
-            .
-          </li>
-          <li className="tracking-[-.01em]">
-            Save and see your changes instantly.
-          </li>
-        </ol>
+    <main className="p-6 space-y-6">
+      <h1 className="text-3xl font-bold">🐋 Whale Trades Dashboard</h1>
 
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:w-auto"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 w-full sm:w-auto md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
+      <div>
+        <label className="font-semibold mr-2">Select Network:</label>
+        {isLoadingNetworks ? (
+          <Shimmer className="w-32 h-10 rounded" />
+        ) : (
+          <NetworkSelector
+            networks={networks}
+            selectedNetwork={selectedNetwork}
+            onChange={setSelectedNetwork}
+          />
+        )}
+      </div>
+
+      <div>
+        <label className="font-semibold mr-2">Select Pool:</label>
+        {isLoadingPools ? (
+          <Shimmer className="w-64 h-10 rounded" />
+        ) : (
+          <PoolSelector
+            pools={pools}
+            selectedPool={selectedPool}
+            onChange={(pool) => {
+              setSelectedPool(pool);
+              setSelectedWhaleTrader(''); // Reset whale trader when pool changes
+            }}
+          />
+        )}
+      </div>
+
+      <div>
+        <label className="font-semibold mr-2">Select Whale Trader:</label>
+        {isLoadingPools || isLoadingTrades ? (
+          <Shimmer className="w-64 h-10 rounded" />
+        ) : (
+          <WhaleTraderSelector
+            whaleTraders={pools.find(p => p.address === selectedPool)?.whaleTraders || []}
+            selectedWhaleTrader={selectedWhaleTrader}
+            onChange={setSelectedWhaleTrader}
+          />
+        )}
+      </div>
+
+      {error ? (
+        <p className="text-red-600">{error}</p>
+      ) : isLoadingTrades ? (
+        <div className="space-y-4">
+          {[1, 2, 3].map((i) => (
+            <TradeCardSkeleton key={i} />
+          ))}
         </div>
-      </main>
-      <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
-    </div>
+      ) : (
+        <ul className="space-y-4">
+          {trades.map((trade, i) => (
+            <li key={i} className="border p-4 rounded shadow bg-white text-black">
+              <div><strong>Type:</strong> {trade.attributes.kind}</div>
+              <div><strong>Amount:</strong> ${parseFloat(trade.attributes.volume_in_usd).toFixed(2)}</div>
+              <div><strong>Time:</strong> {new Date(trade.attributes.block_timestamp).toLocaleString()}</div>
+              <div className="mt-2">
+                <strong>Wallet:</strong> 
+                <span className="font-mono text-sm break-all">
+                  {trade.attributes.tx_from_address}
+                </span>
+              </div>
+            </li>
+          ))}
+        </ul>
+      )}
+    </main>
   );
 }

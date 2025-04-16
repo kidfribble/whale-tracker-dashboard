@@ -1,0 +1,3809 @@
+[
+  {
+    "network": "eth",
+    "name": "WETH / USDT 0.01%",
+    "address": "0xc7bbec68d12a0d1830360f8ec58fa599ba1b0e9b",
+    "whaleTraders": [
+      {
+        "address": "0xae2fc483527b8ef99eb5d9b44875f005ba1fae13",
+        "totalVolume": 524296.8933311863,
+        "tradeCount": 8,
+        "lastTradeTimestamp": "2025-04-16T16:16:47Z"
+      },
+      {
+        "address": "0xeb7742c9ad0cf9e2e6b4a7fda44719193376a547",
+        "totalVolume": 246823.80946392933,
+        "tradeCount": 4,
+        "lastTradeTimestamp": "2025-04-16T16:42:59Z"
+      },
+      {
+        "address": "0xefae7395c20eb28f4f9810e8688a5ea79e1e24ed",
+        "totalVolume": 41446.705238258,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:27:35Z"
+      },
+      {
+        "address": "0x94bf3e48c611c81a28eac84537d247b40c3eb1b7",
+        "totalVolume": 41436.2795050501,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:27:35Z"
+      },
+      {
+        "address": "0xc4c162e5e2475675cf07f4c851659d0f4266c224",
+        "totalVolume": 21958.6483009435,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T16:29:11Z"
+      }
+    ]
+  },
+  {
+    "network": "eth",
+    "name": "USDC / WETH 0.01%",
+    "address": "0xe0554a476a092703abdb3ef35c80e0d76d32939f",
+    "whaleTraders": [
+      {
+        "address": "0xeb7742c9ad0cf9e2e6b4a7fda44719193376a547",
+        "totalVolume": 348946.73036217765,
+        "tradeCount": 8,
+        "lastTradeTimestamp": "2025-04-16T16:24:35Z"
+      },
+      {
+        "address": "0xae2fc483527b8ef99eb5d9b44875f005ba1fae13",
+        "totalVolume": 93179.02608671969,
+        "tradeCount": 4,
+        "lastTradeTimestamp": "2025-04-16T16:20:23Z"
+      },
+      {
+        "address": "0x82fab289311422664a26864322bf88eabf5b4131",
+        "totalVolume": 10345.5735443955,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:23:35Z"
+      }
+    ]
+  },
+  {
+    "network": "eth",
+    "name": "WETH / USDC 0.05%",
+    "address": "0x88e6a0c2ddd26feeb64f039a2c41296fcb3f5640",
+    "whaleTraders": [
+      {
+        "address": "0x5b43453fce04b92e190f391a83136bfbecedefd1",
+        "totalVolume": 400596.32634119,
+        "tradeCount": 12,
+        "lastTradeTimestamp": "2025-04-16T15:59:35Z"
+      },
+      {
+        "address": "0x5d3a10e4cd115311ed3599be26a60abf279871f2",
+        "totalVolume": 226123.32131982068,
+        "tradeCount": 3,
+        "lastTradeTimestamp": "2025-04-16T16:17:35Z"
+      },
+      {
+        "address": "0x12dde15d3bc00d69fb6f94b5afe8cb71a364756c",
+        "totalVolume": 150552.6923662909,
+        "tradeCount": 5,
+        "lastTradeTimestamp": "2025-04-16T15:59:35Z"
+      },
+      {
+        "address": "0x9eb9e9b2ba5c2665a16beaa8e137410358b6beaf",
+        "totalVolume": 129681.3133761449,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T16:25:11Z"
+      },
+      {
+        "address": "0x82fab289311422664a26864322bf88eabf5b4131",
+        "totalVolume": 105509.82893510221,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T16:03:35Z"
+      },
+      {
+        "address": "0x6f0a91ef8adeb54db0e63be507747ab9a31d3926",
+        "totalVolume": 103187.7005003345,
+        "tradeCount": 5,
+        "lastTradeTimestamp": "2025-04-16T16:00:47Z"
+      },
+      {
+        "address": "0x5fa60dd1d2809604496d3315ab6f878bd59f64d4",
+        "totalVolume": 100920.1308097102,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T16:12:23Z"
+      },
+      {
+        "address": "0xc445a471debbc8ef54dbfd90af406b6a682313e3",
+        "totalVolume": 89392.8684686882,
+        "tradeCount": 3,
+        "lastTradeTimestamp": "2025-04-16T16:12:47Z"
+      },
+      {
+        "address": "0xcb3e8ff64aa10af82e98b92d5372ae34de1ad10d",
+        "totalVolume": 80590.2122296372,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:59:35Z"
+      },
+      {
+        "address": "0x3a67b184803641ba107c4c75276d747d123e49ca",
+        "totalVolume": 79581.246624804,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:39:23Z"
+      },
+      {
+        "address": "0x43605d68015b0a4df59e20afc77c9413665eb8dd",
+        "totalVolume": 79233.68842385849,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T16:01:35Z"
+      },
+      {
+        "address": "0x1335d0a7cba7e5742399b0c94305136e8f4bc2a8",
+        "totalVolume": 67959.7097570842,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T16:13:11Z"
+      },
+      {
+        "address": "0xd6f4567bfa29bc70b26dccaeb07e5868905d667c",
+        "totalVolume": 62531.685835753495,
+        "tradeCount": 3,
+        "lastTradeTimestamp": "2025-04-16T16:24:11Z"
+      },
+      {
+        "address": "0x7194f3933b0a01b23be11c4c9ac66f74c3ee281e",
+        "totalVolume": 62508.931294508,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:09:11Z"
+      },
+      {
+        "address": "0x5e2a3daaf86cede3392f77616cede2de0d3bd3a0",
+        "totalVolume": 60446.5219389687,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:59:35Z"
+      },
+      {
+        "address": "0xad35ed1cfe7c17c7b06c5c5d0672c57da4925299",
+        "totalVolume": 55696.4796378178,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:21:47Z"
+      },
+      {
+        "address": "0x00806daa2cfe49715ea05243ff259deb195760fc",
+        "totalVolume": 50747.9383807014,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T16:22:35Z"
+      },
+      {
+        "address": "0x26c141d33819867bf1e62e9121a26d0a543b204a",
+        "totalVolume": 50077.857444531095,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T16:16:47Z"
+      },
+      {
+        "address": "0xeaa9ebddd373c4bd8bb92dfcc9c7e7fcdb268e51",
+        "totalVolume": 49623.2722330229,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T16:08:35Z"
+      },
+      {
+        "address": "0x56fc0708725a65ebb633efdaec931c0600a9face",
+        "totalVolume": 49552.3389482183,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:17:23Z"
+      },
+      {
+        "address": "0xd1fa51f2db23a9fa9d7bb8437b89fb2e70c60cb7",
+        "totalVolume": 47681.4569289427,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T16:04:59Z"
+      },
+      {
+        "address": "0xa172577031eafd8b03dce022533863fe988159cd",
+        "totalVolume": 41308.516853235,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T16:33:35Z"
+      },
+      {
+        "address": "0x20fa98714404b3cc8b385503f96b59028f6a8c2e",
+        "totalVolume": 35940.8839660421,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:24:23Z"
+      },
+      {
+        "address": "0x81dc771e308c76c3e06f635abed7fb24830fb824",
+        "totalVolume": 30380.0025161738,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:19:35Z"
+      },
+      {
+        "address": "0xbaa3ef11659d347aae75c7bb67e29f1f8bb90843",
+        "totalVolume": 28441.9431269025,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:10:59Z"
+      },
+      {
+        "address": "0x72aa4640c61639b8df7f135355995a75d295b9f9",
+        "totalVolume": 26156.5719896604,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:52:11Z"
+      },
+      {
+        "address": "0x6ee456cca17d5b31c0984c8e2cc925f8ee197291",
+        "totalVolume": 24945.46067328,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:28:11Z"
+      },
+      {
+        "address": "0xcdd37ada79f589c15bd4f8fd2083dc88e34a2af2",
+        "totalVolume": 23498.2770424372,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:09:11Z"
+      },
+      {
+        "address": "0x2528b985765da6aebde7c6d823915c1cc336b057",
+        "totalVolume": 21647.7400918799,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:44:23Z"
+      },
+      {
+        "address": "0x684b5acb734564ffd2fe80ca902a94197cf3b88c",
+        "totalVolume": 20666.062147053002,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T16:30:47Z"
+      },
+      {
+        "address": "0xe9edba6bf02712fbf28ec521122ee9cfb4c9d265",
+        "totalVolume": 20068.979449344,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:11:23Z"
+      },
+      {
+        "address": "0xcb56637e3b7bb4338f53ab50fc8d6740446474b4",
+        "totalVolume": 19997.3149874923,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:12:59Z"
+      },
+      {
+        "address": "0xbbad96336943a36e3e292d973b3382dd0ba4d1ef",
+        "totalVolume": 19059.4109946085,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:01:23Z"
+      },
+      {
+        "address": "0x08672acc0e74083cc7e70f737f8a433b79fb6d73",
+        "totalVolume": 18172.1085342446,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:13:47Z"
+      },
+      {
+        "address": "0xa892d9a0c80e1bf3573d92e0bf453930114345aa",
+        "totalVolume": 18148.3922795638,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:27:23Z"
+      },
+      {
+        "address": "0x20011fa1a83bba9c8357f852ec667d8439a7da4a",
+        "totalVolume": 18112.0567334615,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:59:59Z"
+      },
+      {
+        "address": "0xd2338886fe5c2c01af6cce4f6e2ea0fedba2856c",
+        "totalVolume": 15621.7878485435,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:25:47Z"
+      },
+      {
+        "address": "0xf72837a9fce033d57094f52e4f88f129502fa067",
+        "totalVolume": 15606.8789168515,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:36:47Z"
+      },
+      {
+        "address": "0x4acfcc3bed619324aff2c0596d87f23b2c03ffae",
+        "totalVolume": 15308.1650844516,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:46:35Z"
+      },
+      {
+        "address": "0x8279b743d68aaafed764b2b06c7fca8f60e91478",
+        "totalVolume": 14125.2025121672,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:59:47Z"
+      },
+      {
+        "address": "0x50063e22f36688a9d9c89fb052c40fb9b9f0a63e",
+        "totalVolume": 12375.2483102766,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:35:11Z"
+      },
+      {
+        "address": "0x2ee36e41387f87b7e6f678a86d1e575b23b996f5",
+        "totalVolume": 12195.379724118,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:23:47Z"
+      },
+      {
+        "address": "0x56f03dbc2d16f4a252a7176e1fc3f05b53c6aad5",
+        "totalVolume": 12094.7052536613,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:21:59Z"
+      },
+      {
+        "address": "0x73fa8452f829d498c1ec0ed6acdb449a7cee281f",
+        "totalVolume": 11513.548156914,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:49:59Z"
+      },
+      {
+        "address": "0xdfd122610a14ac12d934898c02dbec1f72708116",
+        "totalVolume": 10300.4399431457,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:43:59Z"
+      },
+      {
+        "address": "0x97251bbbe8f80bf1787b15abed08c09ac5cc1776",
+        "totalVolume": 10017.4071741818,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:41:11Z"
+      },
+      {
+        "address": "0x90619437b5f0de67f43d23012e6a270532c11325",
+        "totalVolume": 10004.1105106345,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:00:11Z"
+      }
+    ]
+  },
+  {
+    "network": "eth",
+    "name": "WETH / USDT 0.05%",
+    "address": "0x11b815efb8f581194ae79006d24e0d814b7697f6",
+    "whaleTraders": [
+      {
+        "address": "0xd1fa51f2db23a9fa9d7bb8437b89fb2e70c60cb7",
+        "totalVolume": 118610.8481537979,
+        "tradeCount": 4,
+        "lastTradeTimestamp": "2025-04-16T15:27:59Z"
+      },
+      {
+        "address": "0x887548ea0379a2d34309ce804ac980fb6cc6ce32",
+        "totalVolume": 100147.382472674,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:35:11Z"
+      },
+      {
+        "address": "0x5b43453fce04b92e190f391a83136bfbecedefd1",
+        "totalVolume": 97801.79485334,
+        "tradeCount": 7,
+        "lastTradeTimestamp": "2025-04-16T15:45:35Z"
+      },
+      {
+        "address": "0x9b7095c3020987619bd41a43c803c52b9f8bc05e",
+        "totalVolume": 86468.6212708457,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:35:11Z"
+      },
+      {
+        "address": "0x104da4efb22a7e560e6df9c813e5eb54ca038737",
+        "totalVolume": 59909.7126038473,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T15:34:59Z"
+      },
+      {
+        "address": "0xf5213a6a2f0890321712520b8048d9886c1a9900",
+        "totalVolume": 50417.051704360005,
+        "tradeCount": 4,
+        "lastTradeTimestamp": "2025-04-16T15:36:23Z"
+      },
+      {
+        "address": "0x81dc771e308c76c3e06f635abed7fb24830fb824",
+        "totalVolume": 45195.184283540395,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T15:29:59Z"
+      },
+      {
+        "address": "0x867bdc57d1b071fe5a9f670dd70b91e4269814d3",
+        "totalVolume": 39350.4234016869,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T15:54:11Z"
+      },
+      {
+        "address": "0xfb69ad7239a530b80aeb2908eb8fe0f52ac8999a",
+        "totalVolume": 34617.672,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:34:47Z"
+      },
+      {
+        "address": "0xad35ed1cfe7c17c7b06c5c5d0672c57da4925299",
+        "totalVolume": 34532.9746075476,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T15:40:47Z"
+      },
+      {
+        "address": "0xd6f4567bfa29bc70b26dccaeb07e5868905d667c",
+        "totalVolume": 34016.3137976867,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T15:38:47Z"
+      },
+      {
+        "address": "0x3a67b184803641ba107c4c75276d747d123e49ca",
+        "totalVolume": 31579.2492512286,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T15:31:23Z"
+      },
+      {
+        "address": "0x675bb023e268dcc43f543620577bcacb73047f08",
+        "totalVolume": 30115.8317922326,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:23:23Z"
+      },
+      {
+        "address": "0xebedc8e9ff409b23dd251f87ccbffa8075f87255",
+        "totalVolume": 29510.9868786474,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:36:23Z"
+      },
+      {
+        "address": "0x497a169e37064d92e018d363c86eb3611ec08963",
+        "totalVolume": 27640.229344160798,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T15:34:47Z"
+      },
+      {
+        "address": "0xcb3e8ff64aa10af82e98b92d5372ae34de1ad10d",
+        "totalVolume": 24177.1367528907,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:59:35Z"
+      },
+      {
+        "address": "0x12dde15d3bc00d69fb6f94b5afe8cb71a364756c",
+        "totalVolume": 22665.1787904869,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:39:23Z"
+      },
+      {
+        "address": "0xafd55f8005db9696a6cf420e347c1e8e5dd8bedb",
+        "totalVolume": 21770.5374153366,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:28:11Z"
+      },
+      {
+        "address": "0x0b82909aca91c64f7cfcd4821fcddb7e108754c1",
+        "totalVolume": 19232.4,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:28:59Z"
+      },
+      {
+        "address": "0x065e3dbafcb2c26a978720f9eb4bce6ad9d644a1",
+        "totalVolume": 18868.8171960959,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:35:59Z"
+      },
+      {
+        "address": "0x45e6345d5755f13e98e6cf94c426f6ffbc7aadcc",
+        "totalVolume": 17437.7062908992,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:09:11Z"
+      },
+      {
+        "address": "0xeaa9ebddd373c4bd8bb92dfcc9c7e7fcdb268e51",
+        "totalVolume": 17058.1459892998,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:38:35Z"
+      },
+      {
+        "address": "0x0713727babc56f1f5e8eadb576fb048c6883f8c8",
+        "totalVolume": 15102.939202,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:18:11Z"
+      },
+      {
+        "address": "0x5fa60dd1d2809604496d3315ab6f878bd59f64d4",
+        "totalVolume": 14188.7750644469,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:25:23Z"
+      },
+      {
+        "address": "0x8f70a86c1309d8b1f5befc58948e7386fd495875",
+        "totalVolume": 11974.152664563,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:58:23Z"
+      },
+      {
+        "address": "0x4acfcc3bed619324aff2c0596d87f23b2c03ffae",
+        "totalVolume": 11696.9109006217,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:47:47Z"
+      },
+      {
+        "address": "0xc7899ff6a3ac2ff59261bd960a8c880df06e1041",
+        "totalVolume": 11013.6366934464,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:31:59Z"
+      },
+      {
+        "address": "0xa794401988f9e484e03eb55a8e80db15968a38be",
+        "totalVolume": 10404.8139828908,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:33:35Z"
+      },
+      {
+        "address": "0x6ee456cca17d5b31c0984c8e2cc925f8ee197291",
+        "totalVolume": 10343.23979136,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:28:11Z"
+      },
+      {
+        "address": "0xc140485899c3e0c739dd5e0f480317695ae274af",
+        "totalVolume": 10235.1076808362,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:26:35Z"
+      },
+      {
+        "address": "0x232694077ba53be803110549c5e0b264337a5798",
+        "totalVolume": 10167.7877240108,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:18:11Z"
+      },
+      {
+        "address": "0x6f0a91ef8adeb54db0e63be507747ab9a31d3926",
+        "totalVolume": 10066.4530336949,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:45:47Z"
+      }
+    ]
+  },
+  {
+    "network": "eth",
+    "name": "WETH / USDT 0.05%",
+    "address": "0x6ca298d2983ab03aa1da7679389d955a4efee15c",
+    "whaleTraders": [
+      {
+        "address": "0xadab9c78e6ffb65b4e4827fe83aba9d84260b2e5",
+        "totalVolume": 34841.4998869513,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T15:34:59Z"
+      },
+      {
+        "address": "0x943a02ab81cbcf8d1a26c3e26996c077d3dcf31e",
+        "totalVolume": 33669.6086318587,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:31:47Z"
+      },
+      {
+        "address": "0xda68ef7ea9a0ccedc435ef7e29053985dfa1fe36",
+        "totalVolume": 23813.29515,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:59:59Z"
+      },
+      {
+        "address": "0xd980bf20b072669f876e79728ceb9cbdf57c81c3",
+        "totalVolume": 21176.8520730151,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:25:23Z"
+      },
+      {
+        "address": "0x4c90b8b17b446f15f15f22f86b311e6b1a8f2e5a",
+        "totalVolume": 20306.7385560417,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:42:47Z"
+      },
+      {
+        "address": "0x866bdd48566d984f94c55f5ff8988208b3aa0008",
+        "totalVolume": 18873.1436431939,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:42:47Z"
+      },
+      {
+        "address": "0x887548ea0379a2d34309ce804ac980fb6cc6ce32",
+        "totalVolume": 16706.1496043555,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:35:11Z"
+      },
+      {
+        "address": "0x3f110665b6d8c4fdb51a72cc5241ae98af5ca28b",
+        "totalVolume": 14104.21005,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:37:11Z"
+      },
+      {
+        "address": "0x5b43453fce04b92e190f391a83136bfbecedefd1",
+        "totalVolume": 12967.2455086137,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:25:11Z"
+      },
+      {
+        "address": "0xc0ffeebabe5d496b2dde509f9fa189c25cf29671",
+        "totalVolume": 12912.2268117424,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:01:35Z"
+      },
+      {
+        "address": "0xd1fa51f2db23a9fa9d7bb8437b89fb2e70c60cb7",
+        "totalVolume": 12322.8313778307,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:56:47Z"
+      },
+      {
+        "address": "0xdbf79adf5af85d01ff4136cae6e9853188941533",
+        "totalVolume": 12000.8338896221,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:35:11Z"
+      },
+      {
+        "address": "0x69b21fd99cc86e72abf47210f22d92e587809f5f",
+        "totalVolume": 10900.4995830274,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:53:23Z"
+      },
+      {
+        "address": "0x2ee36e41387f87b7e6f678a86d1e575b23b996f5",
+        "totalVolume": 10792.4634781074,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:25:47Z"
+      },
+      {
+        "address": "0x545da54509ef233642343b8beac5ef4443e79d73",
+        "totalVolume": 10276.2743182396,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:26:23Z"
+      }
+    ]
+  },
+  {
+    "network": "eth",
+    "name": "WBTC / WETH 0.05%",
+    "address": "0x4585fe77225b41b697c938b018e2ac67ac5a20c0",
+    "whaleTraders": [
+      {
+        "address": "0x51301f41c8f83fbdffaeee11f846e9c114fb8046",
+        "totalVolume": 336158.0950311729,
+        "tradeCount": 3,
+        "lastTradeTimestamp": "2025-04-16T14:31:47Z"
+      },
+      {
+        "address": "0xd1fa51f2db23a9fa9d7bb8437b89fb2e70c60cb7",
+        "totalVolume": 266686.94950622943,
+        "tradeCount": 11,
+        "lastTradeTimestamp": "2025-04-16T14:31:23Z"
+      },
+      {
+        "address": "0x5b43453fce04b92e190f391a83136bfbecedefd1",
+        "totalVolume": 256246.06554881638,
+        "tradeCount": 7,
+        "lastTradeTimestamp": "2025-04-16T14:30:59Z"
+      },
+      {
+        "address": "0x0b8fa865b775b0b7ad60b34263dc139ef78d9100",
+        "totalVolume": 222900.121053733,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:25:35Z"
+      },
+      {
+        "address": "0x24f7ef98522dd61d529464f67bb3ffe96ea8afc2",
+        "totalVolume": 209451.10830940772,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T14:32:23Z"
+      },
+      {
+        "address": "0xebedc8e9ff409b23dd251f87ccbffa8075f87255",
+        "totalVolume": 149145.8987490932,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T15:31:23Z"
+      },
+      {
+        "address": "0x58dcef3ed403f915aac053b444e14ed1f20b4a99",
+        "totalVolume": 146991.930761969,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T15:24:47Z"
+      },
+      {
+        "address": "0xf72837a9fce033d57094f52e4f88f129502fa067",
+        "totalVolume": 123588.7993833654,
+        "tradeCount": 4,
+        "lastTradeTimestamp": "2025-04-16T14:32:47Z"
+      },
+      {
+        "address": "0x90028089e9f6f6a5a98d9ca223c745ccbf960d53",
+        "totalVolume": 120590.836946013,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:01:23Z"
+      },
+      {
+        "address": "0x3a67b184803641ba107c4c75276d747d123e49ca",
+        "totalVolume": 113223.0374944871,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T14:56:47Z"
+      },
+      {
+        "address": "0x104da4efb22a7e560e6df9c813e5eb54ca038737",
+        "totalVolume": 110918.3125944676,
+        "tradeCount": 3,
+        "lastTradeTimestamp": "2025-04-16T14:31:59Z"
+      },
+      {
+        "address": "0x887548ea0379a2d34309ce804ac980fb6cc6ce32",
+        "totalVolume": 100142.384902631,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:35:11Z"
+      },
+      {
+        "address": "0x81dc771e308c76c3e06f635abed7fb24830fb824",
+        "totalVolume": 94595.55505909109,
+        "tradeCount": 4,
+        "lastTradeTimestamp": "2025-04-16T15:31:11Z"
+      },
+      {
+        "address": "0x58a497019644d8c383c8d3764c32ffd43506e836",
+        "totalVolume": 93367.5946337182,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T14:45:59Z"
+      },
+      {
+        "address": "0xeaa9ebddd373c4bd8bb92dfcc9c7e7fcdb268e51",
+        "totalVolume": 71715.339763412,
+        "tradeCount": 4,
+        "lastTradeTimestamp": "2025-04-16T14:30:47Z"
+      },
+      {
+        "address": "0x5c44368c0ad4c446842738bdbf8f2bbf9876546e",
+        "totalVolume": 67634.1249793361,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:03:35Z"
+      },
+      {
+        "address": "0x26c141d33819867bf1e62e9121a26d0a543b204a",
+        "totalVolume": 59571.678147955994,
+        "tradeCount": 3,
+        "lastTradeTimestamp": "2025-04-16T16:15:23Z"
+      },
+      {
+        "address": "0x9eb9e9b2ba5c2665a16beaa8e137410358b6beaf",
+        "totalVolume": 59118.53627988869,
+        "tradeCount": 3,
+        "lastTradeTimestamp": "2025-04-16T15:23:11Z"
+      },
+      {
+        "address": "0x56fc0708725a65ebb633efdaec931c0600a9face",
+        "totalVolume": 54115.8140023301,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:34:59Z"
+      },
+      {
+        "address": "0x97251bbbe8f80bf1787b15abed08c09ac5cc1776",
+        "totalVolume": 48979.421633498394,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T15:44:35Z"
+      },
+      {
+        "address": "0x12dde15d3bc00d69fb6f94b5afe8cb71a364756c",
+        "totalVolume": 48404.5646488348,
+        "tradeCount": 3,
+        "lastTradeTimestamp": "2025-04-16T14:52:59Z"
+      },
+      {
+        "address": "0xff5910ab899d4d8ca4ff3b99f93a62bddbeda77e",
+        "totalVolume": 43812.7804355428,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T14:32:35Z"
+      },
+      {
+        "address": "0xad35ed1cfe7c17c7b06c5c5d0672c57da4925299",
+        "totalVolume": 42989.4645759893,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:37:23Z"
+      },
+      {
+        "address": "0x705a5a412cb2a72c3432424bdc8610f698a20329",
+        "totalVolume": 42187.1454200268,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:47:23Z"
+      },
+      {
+        "address": "0x3cb3ef0368a6548f71357f4d346330195bca1160",
+        "totalVolume": 39434.4656494072,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:44:23Z"
+      },
+      {
+        "address": "0x95480d3f27658e73b2785d30beb0c847d78294c7",
+        "totalVolume": 39255.495237648196,
+        "tradeCount": 3,
+        "lastTradeTimestamp": "2025-04-16T14:37:35Z"
+      },
+      {
+        "address": "0x60b86af869f23aeb552fb7f3cabd11b829f6ab2f",
+        "totalVolume": 38195.4029539489,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:04:11Z"
+      },
+      {
+        "address": "0x6f0a91ef8adeb54db0e63be507747ab9a31d3926",
+        "totalVolume": 37662.326135489304,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T15:35:35Z"
+      },
+      {
+        "address": "0xb36ce3f521a1ff4b0cffb82ddd71f0a51fcf56ce",
+        "totalVolume": 35616.1005685827,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T15:35:59Z"
+      },
+      {
+        "address": "0xf9330ce2439c271fddaf63266a4e5f08c8bc34ed",
+        "totalVolume": 32449.4588277862,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:30:11Z"
+      },
+      {
+        "address": "0xd2700e7bbe0a8af6d6c5b3f61d27855daa425a53",
+        "totalVolume": 32314.106085238498,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T15:52:23Z"
+      },
+      {
+        "address": "0xea390c1b7632d7d975cbd0880229c163a7cc8c6d",
+        "totalVolume": 31622.8594930137,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:59:35Z"
+      },
+      {
+        "address": "0xbaa3ef11659d347aae75c7bb67e29f1f8bb90843",
+        "totalVolume": 29380.243998353202,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T14:33:35Z"
+      },
+      {
+        "address": "0x042523db4f3effc33d2742022b2490258494f8b3",
+        "totalVolume": 28250.6412448422,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:03:35Z"
+      },
+      {
+        "address": "0x065e3dbafcb2c26a978720f9eb4bce6ad9d644a1",
+        "totalVolume": 27188.4542363758,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:49:59Z"
+      },
+      {
+        "address": "0xeca2e2d894d19778939bd4dfc34d2a3c45e96456",
+        "totalVolume": 26686.7534478959,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:01:35Z"
+      },
+      {
+        "address": "0x0b82909aca91c64f7cfcd4821fcddb7e108754c1",
+        "totalVolume": 26101.1359776834,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:18:23Z"
+      },
+      {
+        "address": "0x177b8ebe208cb71da818b6b8814c946c027240cd",
+        "totalVolume": 25383.9158752815,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:49:35Z"
+      },
+      {
+        "address": "0x2ee36e41387f87b7e6f678a86d1e575b23b996f5",
+        "totalVolume": 25294.226600464302,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T15:25:47Z"
+      },
+      {
+        "address": "0x6bf97afe2d2c790999cded2a8523009eb8a0823f",
+        "totalVolume": 24064.6357677955,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T15:12:23Z"
+      },
+      {
+        "address": "0xa794401988f9e484e03eb55a8e80db15968a38be",
+        "totalVolume": 23368.7486181617,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:39:11Z"
+      },
+      {
+        "address": "0xa172577031eafd8b03dce022533863fe988159cd",
+        "totalVolume": 22693.8740418901,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:41:23Z"
+      },
+      {
+        "address": "0x431b5a84acc1297eda88259f300262f1bc3a74f3",
+        "totalVolume": 21872.1762822591,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:01:23Z"
+      },
+      {
+        "address": "0xda8d2e0375704df712219a791bad2c926bea3f3e",
+        "totalVolume": 21621.688,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:14:59Z"
+      },
+      {
+        "address": "0xf7bf389531bea3ba0fdd3ecd63b8feeb37b039e3",
+        "totalVolume": 21466.8223430746,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:52:11Z"
+      },
+      {
+        "address": "0x93793bd1f3e35a0efd098c30e486a860a0ef7551",
+        "totalVolume": 21211.1115157791,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:38:35Z"
+      },
+      {
+        "address": "0x5fa60dd1d2809604496d3315ab6f878bd59f64d4",
+        "totalVolume": 20576.1448405056,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:51:23Z"
+      },
+      {
+        "address": "0x3313495b01228b95ae6b0103ce9e4161a32202bf",
+        "totalVolume": 20401.5624313083,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:39:23Z"
+      },
+      {
+        "address": "0x82fab289311422664a26864322bf88eabf5b4131",
+        "totalVolume": 20311.7001549372,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:51:47Z"
+      },
+      {
+        "address": "0x36a454aef52938c8637cd4689b2980c1cfd43389",
+        "totalVolume": 19668.8219443878,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:03:59Z"
+      },
+      {
+        "address": "0x1d71fa2831f20d304cd19f14845d609a241a2d9c",
+        "totalVolume": 17016.4349286849,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:19:35Z"
+      },
+      {
+        "address": "0x867bdc57d1b071fe5a9f670dd70b91e4269814d3",
+        "totalVolume": 15824.0933726556,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:08:59Z"
+      },
+      {
+        "address": "0xd6f4567bfa29bc70b26dccaeb07e5868905d667c",
+        "totalVolume": 15231.1972343128,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:36:23Z"
+      },
+      {
+        "address": "0xb8bea3a83f15845888e5acae387737b0eba86f0f",
+        "totalVolume": 14306.2034918138,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:44:23Z"
+      },
+      {
+        "address": "0x6276ac03090f2bb8be680178343ac368f713b4e8",
+        "totalVolume": 14301.27,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:28:47Z"
+      },
+      {
+        "address": "0xbb61c94456d2102d4e9f3cc27d91fe253bfef58e",
+        "totalVolume": 13898.7500432953,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:45:11Z"
+      },
+      {
+        "address": "0x979ddbf4ef2240b316c73c5b7cdab0a453b101aa",
+        "totalVolume": 12795.5283423814,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:26:59Z"
+      },
+      {
+        "address": "0x4603180bbb8221157880afaa84638e0fc467738d",
+        "totalVolume": 12265.2876344598,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:39:59Z"
+      },
+      {
+        "address": "0x43605d68015b0a4df59e20afc77c9413665eb8dd",
+        "totalVolume": 11335.9586536905,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:29:59Z"
+      },
+      {
+        "address": "0xcb3e8ff64aa10af82e98b92d5372ae34de1ad10d",
+        "totalVolume": 10741.2992643439,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:59:35Z"
+      },
+      {
+        "address": "0x00000cd8d737fdaba0b5118964db92699436f6af",
+        "totalVolume": 10617.7553617998,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:25:47Z"
+      },
+      {
+        "address": "0x9aab3f81604c683a1a0d14019fbfe15bef7aa1ee",
+        "totalVolume": 10602.4639615163,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:35:59Z"
+      },
+      {
+        "address": "0x77eb9084ce8168901bcb11f14f02a7aab36fcd0c",
+        "totalVolume": 10192.9932774757,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:04:59Z"
+      },
+      {
+        "address": "0x0ddcb0769a3591230caa80f85469240b71442089",
+        "totalVolume": 10156.6438598647,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:29:47Z"
+      }
+    ]
+  },
+  {
+    "network": "eth",
+    "name": "DAI / WETH 0.05%",
+    "address": "0x60594a405d53811d3bc4766596efd80fd545a270",
+    "whaleTraders": [
+      {
+        "address": "0x4e3ca608f17ec15236a0ce6dff03175f89c2bdcf",
+        "totalVolume": 14145.1230372803,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:25:35Z"
+      },
+      {
+        "address": "0xd2700e7bbe0a8af6d6c5b3f61d27855daa425a53",
+        "totalVolume": 12315.3364893077,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:31:47Z"
+      },
+      {
+        "address": "0x1c8f6a5f009e051cab9c3851ca2da2c936b2775a",
+        "totalVolume": 11235.4620520833,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:25:23Z"
+      }
+    ]
+  },
+  {
+    "network": "eth",
+    "name": "USDC / USDT 0.001%",
+    "address": "0x8aa4e11cbdf30eedc92100f4c8a31ff748e201d44712cc8c90d189edaa8e4e47",
+    "whaleTraders": [
+      {
+        "address": "0x6d3cf81dd10cb88e27d4c2bd5cd81433017a269e",
+        "totalVolume": 12558769.20654777,
+        "tradeCount": 6,
+        "lastTradeTimestamp": "2025-04-16T14:24:11Z"
+      },
+      {
+        "address": "0xae2fc483527b8ef99eb5d9b44875f005ba1fae13",
+        "totalVolume": 8374275.42411518,
+        "tradeCount": 9,
+        "lastTradeTimestamp": "2025-04-16T14:18:59Z"
+      },
+      {
+        "address": "0x6741c5202e2cb0caccce9ac01bbbc6033cffa1d3",
+        "totalVolume": 1581232.6894196337,
+        "tradeCount": 30,
+        "lastTradeTimestamp": "2025-04-16T15:50:23Z"
+      },
+      {
+        "address": "0x6bf97afe2d2c790999cded2a8523009eb8a0823f",
+        "totalVolume": 550458.105701169,
+        "tradeCount": 7,
+        "lastTradeTimestamp": "2025-04-16T13:36:47Z"
+      },
+      {
+        "address": "0x00806daa2cfe49715ea05243ff259deb195760fc",
+        "totalVolume": 532515.7686220756,
+        "tradeCount": 8,
+        "lastTradeTimestamp": "2025-04-16T16:02:11Z"
+      },
+      {
+        "address": "0xfc9928f6590d853752824b0b403a6ae36785e535",
+        "totalVolume": 202738.68409472,
+        "tradeCount": 4,
+        "lastTradeTimestamp": "2025-04-16T15:53:59Z"
+      },
+      {
+        "address": "0x2158e7614eae8434eb5cfdc921561dac779a0ec6",
+        "totalVolume": 165337.205430824,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:31:59Z"
+      },
+      {
+        "address": "0x00000027f490acee7f11ab5fdd47209d6422c5a7",
+        "totalVolume": 152816.7509174981,
+        "tradeCount": 7,
+        "lastTradeTimestamp": "2025-04-16T16:02:11Z"
+      },
+      {
+        "address": "0x95480d3f27658e73b2785d30beb0c847d78294c7",
+        "totalVolume": 113088.8673454093,
+        "tradeCount": 4,
+        "lastTradeTimestamp": "2025-04-16T13:42:35Z"
+      },
+      {
+        "address": "0x92883be226773b7e8ad50998330ba3317ad5f7c2",
+        "totalVolume": 83692.3207891403,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:09:47Z"
+      },
+      {
+        "address": "0x0bde59981fdeac219ce9e618d27f193438bff786",
+        "totalVolume": 83591.1629680001,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:55:11Z"
+      },
+      {
+        "address": "0x008300082c3000009e63680088f8c7f4d3ff2e87",
+        "totalVolume": 80645.7191780696,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:33:35Z"
+      },
+      {
+        "address": "0xd7e1236c08731c3632519dcd1a581bfe6876a3b2",
+        "totalVolume": 76155.7856774409,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:25:23Z"
+      },
+      {
+        "address": "0xe1360fc4eb286e06182009445cb99034b635f5ff",
+        "totalVolume": 69858.5720309811,
+        "tradeCount": 3,
+        "lastTradeTimestamp": "2025-04-16T14:30:59Z"
+      },
+      {
+        "address": "0x3c051de97dd7cf45fbf1b95e3fe67dab80c1d100",
+        "totalVolume": 68549.6724580108,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:15:23Z"
+      },
+      {
+        "address": "0x3074b5cf7c30ec77fd62d1119cdc6e57701f770c",
+        "totalVolume": 59705.2575740905,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:01:59Z"
+      },
+      {
+        "address": "0x259d2c68ce1a1a42e8c208f544d73a9e12a8ca4b",
+        "totalVolume": 58235.2641582372,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:33:59Z"
+      },
+      {
+        "address": "0x8ca226f6d478c79935412a61502a151330d91a72",
+        "totalVolume": 58047.4479956132,
+        "tradeCount": 4,
+        "lastTradeTimestamp": "2025-04-16T13:36:11Z"
+      },
+      {
+        "address": "0x9ea3f8db46ef491fe8d4163f6339352fdf1f1b52",
+        "totalVolume": 55059.3892151189,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:01:47Z"
+      },
+      {
+        "address": "0xda8d2e0375704df712219a791bad2c926bea3f3e",
+        "totalVolume": 54008.9174057965,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:14:59Z"
+      },
+      {
+        "address": "0x6c940991ba4721821bd994fe7835faef96124a82",
+        "totalVolume": 49744.6550603999,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:28:11Z"
+      },
+      {
+        "address": "0xd2adf24253056d45731a8561749fc9b2ffa4fe19",
+        "totalVolume": 47400.6387654422,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:15:47Z"
+      },
+      {
+        "address": "0x73fa8452f829d498c1ec0ed6acdb449a7cee281f",
+        "totalVolume": 45678.1472280899,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:49:59Z"
+      },
+      {
+        "address": "0xc4b725ed633941832945f7d6f663c352880d2dfd",
+        "totalVolume": 43151.0254817719,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:24:11Z"
+      },
+      {
+        "address": "0x1fd70dbbb6c53c76e766c51ca61413af25896cdf",
+        "totalVolume": 42786.5285425518,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:53:47Z"
+      },
+      {
+        "address": "0x2ee36e41387f87b7e6f678a86d1e575b23b996f5",
+        "totalVolume": 42357.65237156,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T15:25:47Z"
+      },
+      {
+        "address": "0x705a5a412cb2a72c3432424bdc8610f698a20329",
+        "totalVolume": 42146.3235579547,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:47:23Z"
+      },
+      {
+        "address": "0xd267fda7ecbe322e64bf807de06e8e2284b72da9",
+        "totalVolume": 41300.2345266482,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:57:11Z"
+      },
+      {
+        "address": "0x8586b096f46b30360c999535b4cccaef1d771556",
+        "totalVolume": 40430.1259869581,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:41:59Z"
+      },
+      {
+        "address": "0x979ddbf4ef2240b316c73c5b7cdab0a453b101aa",
+        "totalVolume": 37995.9419143976,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:26:59Z"
+      },
+      {
+        "address": "0x8e90675e889fcf027d47b04d859aa537f7052626",
+        "totalVolume": 36148.723247392,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:58:47Z"
+      },
+      {
+        "address": "0xb126afa1075bbfbbe49e8321c6016f9b7ce5ca13",
+        "totalVolume": 33261.4000468253,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:22:23Z"
+      },
+      {
+        "address": "0xc334d1ba91a54d98cafff2b322cae8baec2a7213",
+        "totalVolume": 30465.9269591046,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:22:23Z"
+      },
+      {
+        "address": "0x3d21abb20ecd702bf7d3bce32feeb12b146301ac",
+        "totalVolume": 30137.199751126,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T13:56:23Z"
+      },
+      {
+        "address": "0x555ce236c0220695b68341bc48c68d52210cc35b",
+        "totalVolume": 28617.9195507643,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:14:59Z"
+      },
+      {
+        "address": "0xa59db2360c12a531d1000eea3810f45ce6a95aa9",
+        "totalVolume": 26995.0095531227,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:32:35Z"
+      },
+      {
+        "address": "0x5d1124fb77c539ec92e3ef853053bbce1e98271b",
+        "totalVolume": 25902.2832202898,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:29:23Z"
+      },
+      {
+        "address": "0x66ce4b286220bebcfd1e0125224810d9c235db51",
+        "totalVolume": 24708.5641707625,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:33:47Z"
+      },
+      {
+        "address": "0x3e64485e40962d2298d64c18a33cc8825b6cce2f",
+        "totalVolume": 20490.1847237285,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:44:47Z"
+      },
+      {
+        "address": "0x29940573b41b6315339e3da689f6e90b711f34a7",
+        "totalVolume": 20050.0030009934,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:45:59Z"
+      },
+      {
+        "address": "0xb292e4d4b226ebfa836d0e2cc562f2296033ef30",
+        "totalVolume": 20049.7174143998,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:15:35Z"
+      },
+      {
+        "address": "0xc5d263c097b36df802ce9e030ff6c96c202fa028",
+        "totalVolume": 20046.8331803687,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:42:35Z"
+      },
+      {
+        "address": "0x6b14cf1b46f6eb7d21d4dd7b098c3c9fd370de3c",
+        "totalVolume": 19999.3346340042,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:00:11Z"
+      },
+      {
+        "address": "0xddf33dfac858b7b588836a88a162e9b626a60431",
+        "totalVolume": 19922.8060447137,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:23:35Z"
+      },
+      {
+        "address": "0x8f70a86c1309d8b1f5befc58948e7386fd495875",
+        "totalVolume": 19191.4721969503,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:12:47Z"
+      },
+      {
+        "address": "0x7afed9ca0c0aa5e847d74de27927bcd05030a97b",
+        "totalVolume": 15554.9048101094,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:31:11Z"
+      },
+      {
+        "address": "0x897341c63384a92daad26073c89631e2d2cbe09b",
+        "totalVolume": 15370.383729606,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:13:35Z"
+      },
+      {
+        "address": "0xab60dba75f98de7bfcb5fef3f330f6e8c1a5da02",
+        "totalVolume": 15088.8826395156,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:17:23Z"
+      },
+      {
+        "address": "0x561c02e40cd6c263e8f37440d8d198c5a6b6fc5a",
+        "totalVolume": 15056.2970868889,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:19:47Z"
+      },
+      {
+        "address": "0x05f1e0a65eada4f3a5a9a47215471a916c6ab996",
+        "totalVolume": 15022.2936958502,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:50:59Z"
+      },
+      {
+        "address": "0x80f12ff7d295a1c5f2f772804793b01f54d2c598",
+        "totalVolume": 15020.4690361983,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:51:47Z"
+      },
+      {
+        "address": "0x3615aaf8b40eb4ee2603b14422d7dcb5f5fe9946",
+        "totalVolume": 14848.9350085134,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:23:59Z"
+      },
+      {
+        "address": "0xb8bea3a83f15845888e5acae387737b0eba86f0f",
+        "totalVolume": 14391.9636716314,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:44:23Z"
+      },
+      {
+        "address": "0x651afe5d50d1cd8f7d891dd6bc2a3db4a14e5287",
+        "totalVolume": 13326.9526337043,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:44:11Z"
+      },
+      {
+        "address": "0x11a38a15783ab43c072c5444d4629b22d2f3df2e",
+        "totalVolume": 13297.8853647609,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:27:23Z"
+      },
+      {
+        "address": "0xcd7819690ee80c880e1b7949d3f964408f9dd39a",
+        "totalVolume": 12125.0366953976,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:42:59Z"
+      },
+      {
+        "address": "0xf315be298fce37bc60cfb20ec67c544fac9de2f3",
+        "totalVolume": 11900.6441132101,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:02:47Z"
+      },
+      {
+        "address": "0x47ce28d14d01f7e89e635db7045fce95440786ea",
+        "totalVolume": 11689.8135600952,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:25:11Z"
+      },
+      {
+        "address": "0x1a56abf4fe95e21c1704cbd5ffc79ea1effa3cc1",
+        "totalVolume": 11520.2575758368,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:25:35Z"
+      },
+      {
+        "address": "0x6c64a879f12624248a08bd101cc812e7c4af2674",
+        "totalVolume": 10533.4259924502,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:45:59Z"
+      },
+      {
+        "address": "0xc3b6c9c2a9cfd544d6033042887b606382c07f16",
+        "totalVolume": 10313.4685931271,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:34:11Z"
+      },
+      {
+        "address": "0x4c195942b0e1d6300bc8f31c136f02ed108cabd0",
+        "totalVolume": 10251.6572325211,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:33:23Z"
+      },
+      {
+        "address": "0x2eb393fbac8aaa16047d4242033a25486e14f345",
+        "totalVolume": 10020.9149123208,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:30:23Z"
+      }
+    ]
+  },
+  {
+    "network": "eth",
+    "name": "PROMPT / WETH 0.3%",
+    "address": "0x2b7e68fa478ebf6b1b4697fabaedb61fe17cfab5",
+    "whaleTraders": [
+      {
+        "address": "0x5b43453fce04b92e190f391a83136bfbecedefd1",
+        "totalVolume": 10704.5656181303,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:22:23Z"
+      },
+      {
+        "address": "0x1af85d572a8d1a6ef3a2cea3f0754f5085db7335",
+        "totalVolume": 10514.3269542908,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:01:35Z"
+      },
+      {
+        "address": "0x1afdb3dc7551812078e0e84e9c10a43f80bb2ec6",
+        "totalVolume": 10006.4450864037,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:35:59Z"
+      },
+      {
+        "address": "0x90619437b5f0de67f43d23012e6a270532c11325",
+        "totalVolume": 10004.1105106345,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:00:11Z"
+      }
+    ]
+  },
+  {
+    "network": "eth",
+    "name": "WBTC / USDC 0.05%",
+    "address": "0x9a772018fbd77fcd2d25657e5c547baff3fd7d16",
+    "whaleTraders": [
+      {
+        "address": "0x5b43453fce04b92e190f391a83136bfbecedefd1",
+        "totalVolume": 1088571.793361058,
+        "tradeCount": 19,
+        "lastTradeTimestamp": "2025-04-16T14:41:23Z"
+      },
+      {
+        "address": "0x97251bbbe8f80bf1787b15abed08c09ac5cc1776",
+        "totalVolume": 677499.9277385068,
+        "tradeCount": 6,
+        "lastTradeTimestamp": "2025-04-16T15:44:35Z"
+      },
+      {
+        "address": "0xeefa4e269c6dd0ee1f1fb04bfa4159c2d76f1516",
+        "totalVolume": 496409.69155526196,
+        "tradeCount": 3,
+        "lastTradeTimestamp": "2025-04-16T14:25:59Z"
+      },
+      {
+        "address": "0x4d6f90d12656b411a70102ff82f17e895f7092ec",
+        "totalVolume": 343514.00089033303,
+        "tradeCount": 5,
+        "lastTradeTimestamp": "2025-04-16T14:53:23Z"
+      },
+      {
+        "address": "0x2b25b37c683f042e9ae1877bc59a1bb642eb1073",
+        "totalVolume": 333987.61780507024,
+        "tradeCount": 4,
+        "lastTradeTimestamp": "2025-04-16T14:25:23Z"
+      },
+      {
+        "address": "0x87c89c3aecff90bfc3e6f4d9d747198f833b2e35",
+        "totalVolume": 305855.8288988365,
+        "tradeCount": 4,
+        "lastTradeTimestamp": "2025-04-16T14:35:59Z"
+      },
+      {
+        "address": "0xc83b29f780143fcbc44737e6ea9ff43ae39b917c",
+        "totalVolume": 277370.169228344,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T14:44:11Z"
+      },
+      {
+        "address": "0x44a72754b072998e14ae22609ee30231d33c6ec5",
+        "totalVolume": 277116.6418059127,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T15:10:11Z"
+      },
+      {
+        "address": "0x05cd9660d3ff4d4de8ddfb139819595795a5e01f",
+        "totalVolume": 255970.6092648313,
+        "tradeCount": 3,
+        "lastTradeTimestamp": "2025-04-16T14:52:59Z"
+      },
+      {
+        "address": "0xf8108bc1a9de692161b232e16d2b4e1924757ffd",
+        "totalVolume": 253071.0986738393,
+        "tradeCount": 3,
+        "lastTradeTimestamp": "2025-04-16T14:43:47Z"
+      },
+      {
+        "address": "0xbb038adb68a8eedbaa37603a08188b4a6383698c",
+        "totalVolume": 238991.9278747227,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T14:38:59Z"
+      },
+      {
+        "address": "0x1af85d572a8d1a6ef3a2cea3f0754f5085db7335",
+        "totalVolume": 230664.34612022812,
+        "tradeCount": 3,
+        "lastTradeTimestamp": "2025-04-16T14:51:47Z"
+      },
+      {
+        "address": "0x6ab0e8dd7eb6defb53b0ceebda2b00d543d33fa1",
+        "totalVolume": 227882.08622737988,
+        "tradeCount": 5,
+        "lastTradeTimestamp": "2025-04-16T14:54:35Z"
+      },
+      {
+        "address": "0x4b2e310b10c9e7cd048c7378c24be1f806659d4f",
+        "totalVolume": 200910.2837744985,
+        "tradeCount": 4,
+        "lastTradeTimestamp": "2025-04-16T14:53:35Z"
+      },
+      {
+        "address": "0x3ef9c488689dae71a314d86dbf0b2c9a90f00c8b",
+        "totalVolume": 188576.4161135971,
+        "tradeCount": 3,
+        "lastTradeTimestamp": "2025-04-16T14:24:47Z"
+      },
+      {
+        "address": "0x7e43d3a147f66a953979e4272f0368dac3a5c826",
+        "totalVolume": 177754.8829713091,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T15:30:11Z"
+      },
+      {
+        "address": "0x46187698198fa02f071d999347fe0db2ee79934b",
+        "totalVolume": 171264.855522784,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:11:47Z"
+      },
+      {
+        "address": "0xe6680d000f3c27b148e61346549fddd682e7cca0",
+        "totalVolume": 167605.591485346,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:56:35Z"
+      },
+      {
+        "address": "0x50dcb3f5766527319ca2f3be8dae5fd24b72c807",
+        "totalVolume": 162120.90533004678,
+        "tradeCount": 3,
+        "lastTradeTimestamp": "2025-04-16T14:37:23Z"
+      },
+      {
+        "address": "0x1f204a761ca818737f8be5a77663a4479696c750",
+        "totalVolume": 157868.53151872248,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T16:22:35Z"
+      },
+      {
+        "address": "0x82da8233b45b02c154d9ce3c46e99eec18e25a4f",
+        "totalVolume": 140741.2007236867,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T15:00:35Z"
+      },
+      {
+        "address": "0x3313495b01228b95ae6b0103ce9e4161a32202bf",
+        "totalVolume": 139450.373136246,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:39:23Z"
+      },
+      {
+        "address": "0xddf33dfac858b7b588836a88a162e9b626a60431",
+        "totalVolume": 139372.798186345,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:23:35Z"
+      },
+      {
+        "address": "0xb2edde593ddfcb46b8081ae557c43f5cbce73295",
+        "totalVolume": 136387.032659371,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:25:47Z"
+      },
+      {
+        "address": "0x8ec5fb1daad8041d419be7695bc47e26067c3778",
+        "totalVolume": 135328.0413432856,
+        "tradeCount": 3,
+        "lastTradeTimestamp": "2025-04-16T15:31:11Z"
+      },
+      {
+        "address": "0xd1fa51f2db23a9fa9d7bb8437b89fb2e70c60cb7",
+        "totalVolume": 129664.2049030245,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T14:54:11Z"
+      },
+      {
+        "address": "0xe4613af9ecdf8db83707546af9d4bd9da76ce504",
+        "totalVolume": 126127.2840982297,
+        "tradeCount": 3,
+        "lastTradeTimestamp": "2025-04-16T14:32:11Z"
+      },
+      {
+        "address": "0x5a210aa8ce06570a7a97646368343c1fa7484b72",
+        "totalVolume": 122264.7901770087,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T14:36:11Z"
+      },
+      {
+        "address": "0x90028089e9f6f6a5a98d9ca223c745ccbf960d53",
+        "totalVolume": 119953.94601458,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:01:23Z"
+      },
+      {
+        "address": "0xe92ea8f400cb9bd368bd1185c9fc5e2664770341",
+        "totalVolume": 109714.3681835669,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T14:43:23Z"
+      },
+      {
+        "address": "0x8bbe5d78be45931cf4815d8a00bf38c3ddd36782",
+        "totalVolume": 106735.63055651801,
+        "tradeCount": 3,
+        "lastTradeTimestamp": "2025-04-16T15:49:59Z"
+      },
+      {
+        "address": "0xcf5a33920272e28f220d14c84416474de53f30b9",
+        "totalVolume": 103014.80009519949,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T14:54:23Z"
+      },
+      {
+        "address": "0x887548ea0379a2d34309ce804ac980fb6cc6ce32",
+        "totalVolume": 100380.29670159,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:35:11Z"
+      },
+      {
+        "address": "0x4c1aed6376802c6db50728a4f1bf5d981425d308",
+        "totalVolume": 98874.2520092341,
+        "tradeCount": 3,
+        "lastTradeTimestamp": "2025-04-16T15:17:23Z"
+      },
+      {
+        "address": "0x47ce28d14d01f7e89e635db7045fce95440786ea",
+        "totalVolume": 91296.8196499192,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T14:25:11Z"
+      },
+      {
+        "address": "0xda8cf15bc458a7b13735e7d04495f8cda53f3205",
+        "totalVolume": 91049.62231175549,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T14:47:11Z"
+      },
+      {
+        "address": "0xd92c4e3e434e2d05062c7b842a16ccd3e7a5b9b2",
+        "totalVolume": 73123.3579011784,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:00:47Z"
+      },
+      {
+        "address": "0x38b33c022f22843f3a0fd6d831aff4ef1297d07b",
+        "totalVolume": 68527.2877898221,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:17:23Z"
+      },
+      {
+        "address": "0xafdc6373e653fcbd4583f41e2a5742cfcb5effc7",
+        "totalVolume": 64588.7091412321,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T15:01:35Z"
+      },
+      {
+        "address": "0x60b86af869f23aeb552fb7f3cabd11b829f6ab2f",
+        "totalVolume": 64580.2381917933,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T15:25:35Z"
+      },
+      {
+        "address": "0xa547a35176fb8f8744f69c999c808c97a4efde22",
+        "totalVolume": 61585.7661786305,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:21:11Z"
+      },
+      {
+        "address": "0xdba3db6b1e9645c663c999ab81b4eb8929f3d8e6",
+        "totalVolume": 59693.9357654051,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:40:47Z"
+      },
+      {
+        "address": "0x259d2c68ce1a1a42e8c208f544d73a9e12a8ca4b",
+        "totalVolume": 58230.5645872919,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:33:59Z"
+      },
+      {
+        "address": "0x66c6778dedba51b87103c8543ee751e7cd960659",
+        "totalVolume": 55918.4759273739,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:17:23Z"
+      },
+      {
+        "address": "0x8fd84723bc01c631375e641b087e04c389cd57b3",
+        "totalVolume": 55887.1960491006,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:24:35Z"
+      },
+      {
+        "address": "0xd36d3c566a385a31f08250394d129d16362c658e",
+        "totalVolume": 54418.3469378719,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:43:11Z"
+      },
+      {
+        "address": "0xda8d2e0375704df712219a791bad2c926bea3f3e",
+        "totalVolume": 54065.9415790099,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:14:59Z"
+      },
+      {
+        "address": "0x4603180bbb8221157880afaa84638e0fc467738d",
+        "totalVolume": 53126.6919090438,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:17:47Z"
+      },
+      {
+        "address": "0x75bcdbc99d9ce8ea5c8b0298cf2db409c8a9790a",
+        "totalVolume": 52180.1276567693,
+        "tradeCount": 3,
+        "lastTradeTimestamp": "2025-04-16T15:06:35Z"
+      },
+      {
+        "address": "0x5934e06498db785ff26807161ce9d09063231321",
+        "totalVolume": 45351.6686116721,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:30:59Z"
+      },
+      {
+        "address": "0x2b823eed1f62e95e65ab8ba4bcdcd0933b79edac",
+        "totalVolume": 42247.9129268542,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:07:23Z"
+      },
+      {
+        "address": "0x4fa75ea1571010b0b6327fc39101be4baec37cce",
+        "totalVolume": 41913.4353030446,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:36:47Z"
+      },
+      {
+        "address": "0x9e4858e7db664ca8fb5b4f2d5f972c042da8f3fd",
+        "totalVolume": 40290.0803303909,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:43:35Z"
+      },
+      {
+        "address": "0x979ddbf4ef2240b316c73c5b7cdab0a453b101aa",
+        "totalVolume": 40242.0615642921,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:18:47Z"
+      },
+      {
+        "address": "0x6ee456cca17d5b31c0984c8e2cc925f8ee197291",
+        "totalVolume": 38420.3709975758,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:31:23Z"
+      },
+      {
+        "address": "0x3131f201bc68c615e289fcfdd6ead12e8a94c768",
+        "totalVolume": 37959.207001605,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:26:23Z"
+      },
+      {
+        "address": "0x6d8003b5479e3cc8d0bbb7496679588f254d0878",
+        "totalVolume": 37844.9907994462,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:17:59Z"
+      },
+      {
+        "address": "0x8279b743d68aaafed764b2b06c7fca8f60e91478",
+        "totalVolume": 34189.8160006264,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T14:49:11Z"
+      },
+      {
+        "address": "0xf9330ce2439c271fddaf63266a4e5f08c8bc34ed",
+        "totalVolume": 32473.7830277546,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:30:11Z"
+      },
+      {
+        "address": "0xea390c1b7632d7d975cbd0880229c163a7cc8c6d",
+        "totalVolume": 31651.8062503408,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:59:35Z"
+      },
+      {
+        "address": "0x2bb33026ff3f7ab84cecb0e0a470ac710dd28ce2",
+        "totalVolume": 30834.7376899142,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:20:23Z"
+      },
+      {
+        "address": "0x431b5a84acc1297eda88259f300262f1bc3a74f3",
+        "totalVolume": 30551.246559045,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T14:41:11Z"
+      },
+      {
+        "address": "0x51523b0d2da820f204bb5b2c08a17992179619c3",
+        "totalVolume": 29738.8471542614,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:30:23Z"
+      },
+      {
+        "address": "0x1677eebf2df969db82bc16756f81c1c01b897dc4",
+        "totalVolume": 27720.9784082439,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:46:59Z"
+      },
+      {
+        "address": "0x64bbde373e909501de1309231336761adeaa07d5",
+        "totalVolume": 27395.6195761165,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:38:11Z"
+      },
+      {
+        "address": "0x1ba98272731f1ab5cc33a02f88694c39916e26df",
+        "totalVolume": 25535.0530869026,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:34:47Z"
+      },
+      {
+        "address": "0x065e3dbafcb2c26a978720f9eb4bce6ad9d644a1",
+        "totalVolume": 25158.507911445,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:30:59Z"
+      },
+      {
+        "address": "0x219036d90fca81e2be626c8f2fbe7defd29a0c4f",
+        "totalVolume": 21736.5602000873,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:37:35Z"
+      },
+      {
+        "address": "0xe75ed6f453c602bd696ce27af11565edc9b46b0d",
+        "totalVolume": 21404.7625454911,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:47:23Z"
+      },
+      {
+        "address": "0x372c50019fb522a96b24437dc8d981613c5e15ea",
+        "totalVolume": 21243.5518396031,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:39:59Z"
+      },
+      {
+        "address": "0x1c8f6a5f009e051cab9c3851ca2da2c936b2775a",
+        "totalVolume": 20812.3024910018,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:15:59Z"
+      },
+      {
+        "address": "0xcdd37ada79f589c15bd4f8fd2083dc88e34a2af2",
+        "totalVolume": 19621.5411706877,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:15:35Z"
+      },
+      {
+        "address": "0xc4acdc3dbaa54ad5a20a19fcad8e2d0f2c1ff849",
+        "totalVolume": 19044.3697601737,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:40:23Z"
+      },
+      {
+        "address": "0x882270fd7f12fea73d354fa47a8ce630c5873422",
+        "totalVolume": 17005.2128445468,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:26:47Z"
+      },
+      {
+        "address": "0x4c33c0e010aa2cb240cf73a683c1c6c4ccab5626",
+        "totalVolume": 15841.0751761156,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:52:11Z"
+      },
+      {
+        "address": "0xbd1876611b9ee9927d2c892479bff5b31e9e96d8",
+        "totalVolume": 15474.1333476959,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:53:59Z"
+      },
+      {
+        "address": "0x0b275aaeb7e834520f34a24027091edba49b7a58",
+        "totalVolume": 14838.5420043709,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:30:35Z"
+      },
+      {
+        "address": "0xa5a13f62ce1113838e0d9b4559b8caf5f76463c0",
+        "totalVolume": 13986.7239458912,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:19:11Z"
+      },
+      {
+        "address": "0x6bf97afe2d2c790999cded2a8523009eb8a0823f",
+        "totalVolume": 13833.4328429029,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:12:23Z"
+      },
+      {
+        "address": "0x95480d3f27658e73b2785d30beb0c847d78294c7",
+        "totalVolume": 13049.4020202309,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:37:35Z"
+      },
+      {
+        "address": "0xe58e5ed4544f58831a84c18178b911a5957ada08",
+        "totalVolume": 12452.4002278918,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:52:47Z"
+      },
+      {
+        "address": "0xf621b27508b5bc902ff553d0323105c59351a634",
+        "totalVolume": 11893.1618001931,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:21:59Z"
+      },
+      {
+        "address": "0xff82bf5238637b7e5e345888bab9cd99f5ebe331",
+        "totalVolume": 11380.6282818373,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:06:59Z"
+      },
+      {
+        "address": "0x0bde59981fdeac219ce9e618d27f193438bff786",
+        "totalVolume": 11314.629861288,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:25:11Z"
+      },
+      {
+        "address": "0x3eff3dc5a4f5c65d28e88dc8fd22800979c9e7c6",
+        "totalVolume": 10370.0894460513,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:00:11Z"
+      },
+      {
+        "address": "0x76dd32063b2899a59f6e15dbc474a160cc922751",
+        "totalVolume": 10324.9980947074,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:43:11Z"
+      },
+      {
+        "address": "0x0ddcb0769a3591230caa80f85469240b71442089",
+        "totalVolume": 10135.9923294409,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:29:47Z"
+      },
+      {
+        "address": "0x872b6c97bd7b73e7c700442a2a5415435c2317e7",
+        "totalVolume": 10126.8219758422,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:34:47Z"
+      }
+    ]
+  },
+  {
+    "network": "eth",
+    "name": "WETH / USDC",
+    "address": "0xb4e16d0168e52d35cacd2c6185b44281ec28c9dc",
+    "whaleTraders": [
+      {
+        "address": "0x06ceb374522f86ae62713f0ca392090934c5ac15",
+        "totalVolume": 27264.0909995681,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T14:23:23Z"
+      },
+      {
+        "address": "0x64bbde373e909501de1309231336761adeaa07d5",
+        "totalVolume": 20118.3302374019,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:25:35Z"
+      },
+      {
+        "address": "0xfb9779477e5b4834bf2bc02dd29b97b344d0f700",
+        "totalVolume": 12558.1717191882,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:25:23Z"
+      },
+      {
+        "address": "0xff5910ab899d4d8ca4ff3b99f93a62bddbeda77e",
+        "totalVolume": 12390.087658422,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:31:47Z"
+      },
+      {
+        "address": "0x6fd83fc95936de6f1523928c7a6b1be35ce5b9aa",
+        "totalVolume": 12296.9121089478,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:12:11Z"
+      }
+    ]
+  },
+  {
+    "network": "eth",
+    "name": "crvUSD / WETH / CRV",
+    "address": "0x4ebdf703948ddcea3b11f675b4d1fba9d2414a14",
+    "whaleTraders": [
+      {
+        "address": "0x45312ea0eff7e09c83cbe249fa1d7598c4c8cd4e",
+        "totalVolume": 12952.238859683,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T12:19:59Z"
+      },
+      {
+        "address": "0xf081470f5c6fbccf48cc4e5b82dd926409dcdd67",
+        "totalVolume": 11965.8487332542,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:44:11Z"
+      },
+      {
+        "address": "0x0d0e364aa7852291883c162b22d6d81f6355428f",
+        "totalVolume": 10828.5099141397,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:52:23Z"
+      }
+    ]
+  },
+  {
+    "network": "eth",
+    "name": "USDC / USDT 0.01%",
+    "address": "0x3416cf6c708da44db2624d63ea0aaef7113527c6",
+    "whaleTraders": [
+      {
+        "address": "0x705a5a412cb2a72c3432424bdc8610f698a20329",
+        "totalVolume": 632702.214524945,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:47:23Z"
+      },
+      {
+        "address": "0x8cb72f687e73345ea4f9e903813060a311cf1e77",
+        "totalVolume": 329702.478706621,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:42:59Z"
+      },
+      {
+        "address": "0xfb69ad7239a530b80aeb2908eb8fe0f52ac8999a",
+        "totalVolume": 89669.214780953,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:34:47Z"
+      },
+      {
+        "address": "0x90028089e9f6f6a5a98d9ca223c745ccbf960d53",
+        "totalVolume": 79939.4249218498,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:01:23Z"
+      },
+      {
+        "address": "0x87d18ee84e8f4f5709cbf3500179a4c601da12ce",
+        "totalVolume": 62724.805392022296,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T15:19:47Z"
+      },
+      {
+        "address": "0xafd55f8005db9696a6cf420e347c1e8e5dd8bedb",
+        "totalVolume": 61285.0213641665,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:28:11Z"
+      },
+      {
+        "address": "0x2a15ed3261af005ff46009c2f344b20e2bd3a71a",
+        "totalVolume": 54816.826376694,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:18:59Z"
+      },
+      {
+        "address": "0x9c5440875d66a266847b405c9e748c08ab4dd35e",
+        "totalVolume": 52839.8742559308,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T13:32:35Z"
+      },
+      {
+        "address": "0xae2fc483527b8ef99eb5d9b44875f005ba1fae13",
+        "totalVolume": 50047.9912384644,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:36:11Z"
+      },
+      {
+        "address": "0x0b82909aca91c64f7cfcd4821fcddb7e108754c1",
+        "totalVolume": 49216.0158891182,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T14:00:11Z"
+      },
+      {
+        "address": "0xe43d2a261eb9509931848bf6ecc3840ea43edfc9",
+        "totalVolume": 48632.6352926335,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:22:35Z"
+      },
+      {
+        "address": "0xd3557ff0ea4bce1c92a21bcc9cb072ac57c87bb1",
+        "totalVolume": 34928.3059148389,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T13:46:35Z"
+      },
+      {
+        "address": "0x4c5f6ad6628d205259443ebcf6cc4cdd7d6cbf81",
+        "totalVolume": 32110.298358672502,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T14:53:11Z"
+      },
+      {
+        "address": "0x1677eebf2df969db82bc16756f81c1c01b897dc4",
+        "totalVolume": 27727.3474411719,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:46:59Z"
+      },
+      {
+        "address": "0x9774eb4d9a4b72b6bbb34fd61d3bd771cb7d9f5e",
+        "totalVolume": 26890.3219815435,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T13:39:59Z"
+      },
+      {
+        "address": "0xc26b6d9d5b6ca584e18d868a2ba496d13f2241f0",
+        "totalVolume": 25027.4247373765,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T13:06:11Z"
+      },
+      {
+        "address": "0x8b92a7457d07ed36897d739a19c9e24cf745d269",
+        "totalVolume": 24986.2361052776,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T13:08:47Z"
+      },
+      {
+        "address": "0x3130edfe468a6f1d3ba000442c06080c6aa0801c",
+        "totalVolume": 23806.557400549,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:32:59Z"
+      },
+      {
+        "address": "0x0f43f8ccea5527689ad63667ebb8e13b19290e55",
+        "totalVolume": 21184.58123108,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:34:35Z"
+      },
+      {
+        "address": "0x0713727babc56f1f5e8eadb576fb048c6883f8c8",
+        "totalVolume": 19869.6152079793,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:39:35Z"
+      },
+      {
+        "address": "0xdea44de0a68ecd2839eb170db9ea4879f1d7e6af",
+        "totalVolume": 15259.1925983568,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:26:23Z"
+      },
+      {
+        "address": "0xcb56637e3b7bb4338f53ab50fc8d6740446474b4",
+        "totalVolume": 15000.9980414033,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:12:59Z"
+      },
+      {
+        "address": "0x50723fb88ef156f90ad088724b596013ecfba262",
+        "totalVolume": 13871.1460592465,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:26:59Z"
+      },
+      {
+        "address": "0x169d12f3c1c094af887c8969caa8acfd2e8f7891",
+        "totalVolume": 12546.8702386653,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T13:06:23Z"
+      },
+      {
+        "address": "0x0936daeeb8b7575f7872fd0b83d44abbe19d6d56",
+        "totalVolume": 11190.3133012293,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T13:43:59Z"
+      }
+    ]
+  },
+  {
+    "network": "eth",
+    "name": "ETH / USDT 0.05%",
+    "address": "0x72331fcb696b0151904c03584b66dc8365bc63f8a144d89a773384e3a579ca73",
+    "whaleTraders": [
+      {
+        "address": "0xae2fc483527b8ef99eb5d9b44875f005ba1fae13",
+        "totalVolume": 228236.1143417527,
+        "tradeCount": 6,
+        "lastTradeTimestamp": "2025-04-16T14:37:11Z"
+      }
+    ]
+  },
+  {
+    "network": "bsc",
+    "name": "USDT / WBNB 0.01%",
+    "address": "0x172fcd41e0913e95784454622d1c3724f546f849",
+    "whaleTraders": [
+      {
+        "address": "0x292a592cc76a45128c738ee9a00fdcd39894e819",
+        "totalVolume": 13676.0373273487,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:45:14Z"
+      },
+      {
+        "address": "0x29d23322d88f4e5bd1be86c7791fc5e127f2e294",
+        "totalVolume": 13327.6515905677,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:45:17Z"
+      },
+      {
+        "address": "0x5317d68fc55b66dff53b68839ffdbb024fdd1f3d",
+        "totalVolume": 11693.3324028664,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:52:05Z"
+      }
+    ]
+  },
+  {
+    "network": "bsc",
+    "name": "USDT / WBNB 0.05%",
+    "address": "0x36696169c63e42cd08ce11f5deebbcebae652050",
+    "whaleTraders": [
+      {
+        "address": "0xc46ca587b779c9dd102514f7264240204dbbcdf9",
+        "totalVolume": 86645.116224705,
+        "tradeCount": 4,
+        "lastTradeTimestamp": "2025-04-16T16:36:17Z"
+      },
+      {
+        "address": "0xea22767002bdc47738e234f749be980713ae17aa",
+        "totalVolume": 36337.1529022288,
+        "tradeCount": 3,
+        "lastTradeTimestamp": "2025-04-16T16:36:26Z"
+      },
+      {
+        "address": "0xd3f45d9f649f4f4005b05461244258bfaf5d1a42",
+        "totalVolume": 10554.5434593181,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:39:26Z"
+      }
+    ]
+  },
+  {
+    "network": "bsc",
+    "name": "ETH / WBNB 0.01%",
+    "address": "0x62fcb3c1794fb95bd8b1a97f6ad5d8a7e4943a1e",
+    "whaleTraders": [
+      {
+        "address": "0xa641f979b1fb9ed1eb67cb10a0aac1f6aeec8b8b",
+        "totalVolume": 15378.9374996603,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:37:50Z"
+      }
+    ]
+  },
+  {
+    "network": "bsc",
+    "name": "NVB / USDT",
+    "address": "0x5a5fd4dbf70747e684f43b43ab53d4b0c733293d",
+    "whaleTraders": [
+      {
+        "address": "0x9f4c5156edc802f12ee73a95880977b8d49f10f0",
+        "totalVolume": 10011.0110735935,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:40:59Z"
+      }
+    ]
+  },
+  {
+    "network": "bsc",
+    "name": "GOT / USDT",
+    "address": "0x1831bb2723ced46e1b6c08d2f3ae50b2ab9427b9",
+    "whaleTraders": [
+      {
+        "address": "0x30f0e72feaeb272e4fe1c6d9efb4705c61710490",
+        "totalVolume": 10611.0106511404,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:11:08Z"
+      }
+    ]
+  },
+  {
+    "network": "polygon_pos",
+    "name": "USDC / USDC 0.01%",
+    "address": "0xd36ec33c8bed5a9f7b6630855f1533455b98a418",
+    "whaleTraders": [
+      {
+        "address": "0xddd8c93165245b2764dfe8be340992e99d7b2c07",
+        "totalVolume": 40092.4721677322,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:25:07Z"
+      },
+      {
+        "address": "0x1881ad6e231a14a8be0f9ae6f9efd8f3cfb09919",
+        "totalVolume": 24449.1028283738,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:34:11Z"
+      },
+      {
+        "address": "0x0f0067cd819cb8f20bda62046daff7a2b5c88280",
+        "totalVolume": 11325.9203320143,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:51:19Z"
+      },
+      {
+        "address": "0x09583cb666c9a687adeafb50fd556adb6bae6fa6",
+        "totalVolume": 10033.3520568684,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:24:15Z"
+      }
+    ]
+  },
+  {
+    "network": "avax",
+    "name": "WETH.e / WAVAX",
+    "address": "0x1901011a39b11271578a1283d620373abed66faa",
+    "whaleTraders": [
+      {
+        "address": "0x767282a01a7c48be922fec0bcf10b881dcf6ce3b",
+        "totalVolume": 441643.8275551906,
+        "tradeCount": 27,
+        "lastTradeTimestamp": "2025-04-16T15:29:19Z"
+      },
+      {
+        "address": "0x644e5b7c5d4bc8073732cea72c66e0bb90dfc00f",
+        "totalVolume": 24274.62397864197,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T15:29:29Z"
+      },
+      {
+        "address": "0x777000d100fd92407c3e846e454077db4053b8aa",
+        "totalVolume": 19302.0568491143,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:50:57Z"
+      },
+      {
+        "address": "0xd3fff56ac75a119bc9a9d5de7af2be1e8c9c767f",
+        "totalVolume": 19300.50678002561,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:50:57Z"
+      }
+    ]
+  },
+  {
+    "network": "avax",
+    "name": "WAVAX / USDC 0.025%",
+    "address": "0xa20c959b19f114e9c2d81547734cdc1110bd773d",
+    "whaleTraders": [
+      {
+        "address": "0xc10922ce9ca0f95fb55498b1aabe2bcad3e05da3",
+        "totalVolume": 20196.523530356,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:25:31Z"
+      },
+      {
+        "address": "0xd3fff56ac75a119bc9a9d5de7af2be1e8c9c767f",
+        "totalVolume": 17555.5456731864,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:06:19Z"
+      },
+      {
+        "address": "0x1886fd77c9f212a43e3dd786a97c3cca2629c913",
+        "totalVolume": 10469.9624375665,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:30:35Z"
+      }
+    ]
+  },
+  {
+    "network": "avax",
+    "name": "BTC.b / WAVAX 0.025%",
+    "address": "0xa71ba3939cd6c50c674866e321bc6bba1c977dd0",
+    "whaleTraders": [
+      {
+        "address": "0xa864937f11621b53b259384ed0c9120c4b5c62ac",
+        "totalVolume": 72410.8383146759,
+        "tradeCount": 5,
+        "lastTradeTimestamp": "2025-04-16T14:30:50Z"
+      },
+      {
+        "address": "0x769304431a604bdab3b9f31e2380c200f6d900cb",
+        "totalVolume": 30219.8614441378,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T14:42:07Z"
+      },
+      {
+        "address": "0x644e5b7c5d4bc8073732cea72c66e0bb90dfc00f",
+        "totalVolume": 24261.284931968,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T15:29:29Z"
+      },
+      {
+        "address": "0x0d47b29db686c4bbd77839c981d053adf61f973a",
+        "totalVolume": 13156.9379700727,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:55:09Z"
+      },
+      {
+        "address": "0x26a87410dc747b3f4ed53cbd092aae6a065911db",
+        "totalVolume": 11014.2218378547,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:37:33Z"
+      },
+      {
+        "address": "0x77700081d896b37a7be8952b613189a9949a833d",
+        "totalVolume": 10160.3653578884,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:32:48Z"
+      }
+    ]
+  },
+  {
+    "network": "avax",
+    "name": "USDt / USDC",
+    "address": "0x2823299af89285ff1a1abf58db37ce57006fef5d",
+    "whaleTraders": [
+      {
+        "address": "0xc693d87ea43656cd5494065a531381338e6d56a3",
+        "totalVolume": 47135.28364943891,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:42:56Z"
+      },
+      {
+        "address": "0x88cb2f6c45528c3631649ccd8e05fbc9996eb2c6",
+        "totalVolume": 40479.77680635855,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:09:45Z"
+      },
+      {
+        "address": "0x55217745adf2e178b1a689ecc5435f1739504053",
+        "totalVolume": 29887.366180276225,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T14:47:11Z"
+      },
+      {
+        "address": "0x5020c6eb0fe5321071942847b56349a68c7342dd",
+        "totalVolume": 16383.82441118738,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:52:04Z"
+      },
+      {
+        "address": "0xea9ae3c17484f6f3107e5fee0015956f63c4b5c3",
+        "totalVolume": 15998.330918430414,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:16:28Z"
+      },
+      {
+        "address": "0x86ab06948109bfab0a4f1fcec7bbdb8d465289a6",
+        "totalVolume": 11061.052846715264,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:27:04Z"
+      }
+    ]
+  },
+  {
+    "network": "avax",
+    "name": "WETH.e / WAVAX 0.3%",
+    "address": "0x66a5de11d1e1f20da825d974453f099c4bb13647",
+    "whaleTraders": [
+      {
+        "address": "0x13b739d50faeab4fe3adecba7881cf9d0aa74073",
+        "totalVolume": 62584.9755331405,
+        "tradeCount": 5,
+        "lastTradeTimestamp": "2025-04-16T13:14:48Z"
+      },
+      {
+        "address": "0xd3fff56ac75a119bc9a9d5de7af2be1e8c9c767f",
+        "totalVolume": 38412.0425954907,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T12:51:56Z"
+      },
+      {
+        "address": "0x77700000e01d9a6c4cdd57b39c2508494e78a9c8",
+        "totalVolume": 10083.4499480676,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T10:49:21Z"
+      }
+    ]
+  },
+  {
+    "network": "movr",
+    "name": "FRAX / WMOVR",
+    "address": "0x2cc54b4a3878e36e1c754871438113c1117a3ad7",
+    "whaleTraders": [
+      {
+        "address": "0x3f8793d2a0ec69f0bae47140886039a4dc63a960",
+        "totalVolume": 34790.149578680604,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T12:28:24Z"
+      }
+    ]
+  },
+  {
+    "network": "cro",
+    "name": "WCRO / USDC",
+    "address": "0xe61db569e231b3f5530168aa2c9d50246525b6d6",
+    "whaleTraders": [
+      {
+        "address": "0x97d7c22e2f6dcd466683c9b4fdab28fd59d10e2c",
+        "totalVolume": 10356.2235388234,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T11:39:29Z"
+      }
+    ]
+  },
+  {
+    "network": "cro",
+    "name": "LION / WCRO",
+    "address": "0x4903e929bd08ca44f57470add6b4eb89ce0e36dd",
+    "whaleTraders": [
+      {
+        "address": "0x227f6757289a86c13eee2e91c2e6eb03f2ed11a6",
+        "totalVolume": 12608.4728886334,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:36:34Z"
+      },
+      {
+        "address": "0x72aa98ad554c9846c0cb2ce2d4d46c170b105322",
+        "totalVolume": 12066.975670572,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T08:29:43Z"
+      }
+    ]
+  },
+  {
+    "network": "arbitrum",
+    "name": "USDC / WETH 0.05%",
+    "address": "0xc6962004f452be9203591991d15f6b388e09e8d0",
+    "whaleTraders": [
+      {
+        "address": "0x4700192f8a4a00f009d87a515ff2d13e5cab8364",
+        "totalVolume": 22291.6428026061,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T16:58:32Z"
+      },
+      {
+        "address": "0x090ee598777caddad04df4271b167f38e73a9bf0",
+        "totalVolume": 11139.03,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:01:09Z"
+      },
+      {
+        "address": "0x400ff1835a4a11c7e77b12240eb227d5ecc75767",
+        "totalVolume": 10520.5150056669,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:01:09Z"
+      },
+      {
+        "address": "0x56c673ce1b44ccf049c1c7eaabdadbcc40ceb94d",
+        "totalVolume": 10212.1056525656,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:01:06Z"
+      }
+    ]
+  },
+  {
+    "network": "arbitrum",
+    "name": "WBTC / WETH 0.05%",
+    "address": "0x2f5e87c9312fa29aed5c179e456625d79015299c",
+    "whaleTraders": [
+      {
+        "address": "0xefb208b020ceb6ab14ebadac85187e2936931a8e",
+        "totalVolume": 13988.0732979294,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:00:11Z"
+      },
+      {
+        "address": "0xa82fbaad7113084079dfd47d8bc1d0db5a76ec59",
+        "totalVolume": 11981.8206696779,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:59:45Z"
+      },
+      {
+        "address": "0x9995b3f8216a9b27d1da07d69d95b7bb5763511a",
+        "totalVolume": 11013.0094388877,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:00:11Z"
+      }
+    ]
+  },
+  {
+    "network": "arbitrum",
+    "name": "WBTC / USDT 0.05%",
+    "address": "0x5969efdde3cf5c0d9a88ae51e47d721096a97203",
+    "whaleTraders": [
+      {
+        "address": "0xa82fbaad7113084079dfd47d8bc1d0db5a76ec59",
+        "totalVolume": 34869.0064111417,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:57:09Z"
+      },
+      {
+        "address": "0x0007448f4ba168e24c35f835eefa1a76587d691d",
+        "totalVolume": 18248.4167241289,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:50:11Z"
+      },
+      {
+        "address": "0x278a4ed03655d139a155c8eddf393bdbe9a66f10",
+        "totalVolume": 14238.4385960081,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:57:09Z"
+      }
+    ]
+  },
+  {
+    "network": "arbitrum",
+    "name": "USDC / WBTC 0.05%",
+    "address": "0x0e4831319a50228b9e450861297ab92dee15b44f",
+    "whaleTraders": [
+      {
+        "address": "0xa82fbaad7113084079dfd47d8bc1d0db5a76ec59",
+        "totalVolume": 27895.2555230478,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:57:09Z"
+      },
+      {
+        "address": "0x05ebd885c8b4aa1c7fa5ee677d0111a5e83cbe20",
+        "totalVolume": 11940.0081520234,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:57:09Z"
+      }
+    ]
+  },
+  {
+    "network": "xdai",
+    "name": "USDC / WXDAI / USDT",
+    "address": "0x7f90122bf0700f9e7e1f688fe926940e8839f353",
+    "whaleTraders": [
+      {
+        "address": "0x6ea77f83ec8693666866ece250411c974ab962a8",
+        "totalVolume": 120131.5629017085,
+        "tradeCount": 4,
+        "lastTradeTimestamp": "2025-04-16T13:57:30Z"
+      },
+      {
+        "address": "0x9008d19f58aabd9ed0d60971565aa8510560ab41",
+        "totalVolume": 10219.0062134788,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:01:00Z"
+      }
+    ]
+  },
+  {
+    "network": "xdai",
+    "name": "wstETH / sDAI 0.3%",
+    "address": "0xbc2acf5e821c5c9f8667a36bb1131dad26ed64f9",
+    "whaleTraders": [
+      {
+        "address": "0xe3068acb5b5672408eadad4417e7d3ba41d4febe",
+        "totalVolume": 11641.7233683105,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:47:25Z"
+      }
+    ]
+  },
+  {
+    "network": "xdai",
+    "name": "wstETH / WETH / bb-WETH-wstETH 0.01%",
+    "address": "0xbad20c15a773bf03ab973302f61fabcea5101f0a",
+    "whaleTraders": [
+      {
+        "address": "0xfabbdf8a77005c00edbe0000bdc000644c024322",
+        "totalVolume": 23897.5782459128,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T09:06:35Z"
+      }
+    ]
+  },
+  {
+    "network": "xdai",
+    "name": "USDC.e / USDT / sDAI / sBAL3 0.01%",
+    "address": "0xfc095c811fe836ed12f247bcf042504342b73fb7",
+    "whaleTraders": [
+      {
+        "address": "0x6bf97afe2d2c790999cded2a8523009eb8a0823f",
+        "totalVolume": 562655.8045721467,
+        "tradeCount": 46,
+        "lastTradeTimestamp": "2025-04-16T02:23:10Z"
+      },
+      {
+        "address": "0x7da9a33d15413f499299687cc9d81de84684e28e",
+        "totalVolume": 431423.329726318,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:54:05Z"
+      },
+      {
+        "address": "0x490f34c46cf271b288d1833571f5d47b7e068163",
+        "totalVolume": 96254.5163843097,
+        "tradeCount": 8,
+        "lastTradeTimestamp": "2025-04-16T03:49:45Z"
+      },
+      {
+        "address": "0xd99ac0681b904991169a4f398b9043781adbe0c3",
+        "totalVolume": 18996.4275549093,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T07:03:15Z"
+      },
+      {
+        "address": "0xe3068acb5b5672408eadad4417e7d3ba41d4febe",
+        "totalVolume": 11584.9619814548,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:47:25Z"
+      },
+      {
+        "address": "0xfabbdf8a77005c00edbe0000bdc000644c024322",
+        "totalVolume": 10287.5212346543,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:46:00Z"
+      }
+    ]
+  },
+  {
+    "network": "xdai",
+    "name": "sDAI / EURe / EURe/sDAI 0.1%",
+    "address": "0xdd439304a77f54b1f7854751ac1169b279591ef7",
+    "whaleTraders": [
+      {
+        "address": "0xc747e1bf4933bf8220592b054f8030e5b24c2cf5",
+        "totalVolume": 103504.1555364454,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T09:16:20Z"
+      },
+      {
+        "address": "0x6bf97afe2d2c790999cded2a8523009eb8a0823f",
+        "totalVolume": 69928.5666302758,
+        "tradeCount": 3,
+        "lastTradeTimestamp": "2025-04-16T07:37:25Z"
+      },
+      {
+        "address": "0xf24b73a328df29cdde804acf605b8722ad5030da",
+        "totalVolume": 64649.444124867296,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T08:41:55Z"
+      },
+      {
+        "address": "0xe8b92bcd54dab0c833bd9ebecd6770baae075863",
+        "totalVolume": 53439.6458232184,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T01:41:35Z"
+      },
+      {
+        "address": "0xefabbdefad6c123ffb11f1e3251d516e2764495d",
+        "totalVolume": 28467.9406796502,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T08:42:00Z"
+      },
+      {
+        "address": "0xf70da97812cb96acdf810712aa562db8dfa3dbef",
+        "totalVolume": 22712.4586004696,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T07:01:45Z"
+      },
+      {
+        "address": "0xd99ac0681b904991169a4f398b9043781adbe0c3",
+        "totalVolume": 17235.7528892778,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T07:03:15Z"
+      },
+      {
+        "address": "0xc6a82e72156a11a2e1634633af5e4517b451f0d9",
+        "totalVolume": 14739.9063575808,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T07:50:25Z"
+      }
+    ]
+  },
+  {
+    "network": "xdai",
+    "name": "USDT / sBAL3 / sDAI / USDC 0.01%",
+    "address": "0x7644fa5d0ea14fcf3e813fdf93ca9544f8567655",
+    "whaleTraders": [
+      {
+        "address": "0x7da9a33d15413f499299687cc9d81de84684e28e",
+        "totalVolume": 17975.5922442719,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:54:05Z"
+      }
+    ]
+  },
+  {
+    "network": "optimism",
+    "name": "USDC / WETH 0.04%",
+    "address": "0x478946bcd4a5a22b316470f5486fafb928c0ba25",
+    "whaleTraders": [
+      {
+        "address": "0x38ee4995291755f36f4fa1dab6a663fbc407731f",
+        "totalVolume": 27145.1374084796,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:45:55Z"
+      },
+      {
+        "address": "0x66e0c7ef7c51d22616ec96f87cedf27a72c7f3fd",
+        "totalVolume": 15401.0478968805,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:35:33Z"
+      },
+      {
+        "address": "0x46619117bfccce427350754988b8188f9d421eac",
+        "totalVolume": 11281.8459959844,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:46:11Z"
+      }
+    ]
+  },
+  {
+    "network": "solana",
+    "name": "WeChat / SOL",
+    "address": "JCHu7xAXKGGupmX7eMS3Nw7AuwkU2eiF57ZyZ7JZTmUX",
+    "whaleTraders": [
+      {
+        "address": "ETRabLmBFczJbPDqNcKww53QD8bz6a1XDs9TMZEkjtZi",
+        "totalVolume": 28270.3706278303,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T06:10:18Z"
+      }
+    ]
+  },
+  {
+    "network": "solana",
+    "name": "Coinify / SOL",
+    "address": "EWEbdPLizedXuXBWFnPSn2q9rxpX6uVdpDsXe67CpZU9",
+    "whaleTraders": [
+      {
+        "address": "57N5Yv6eb6Y5gHzULQa6xMrMYhMPSXA3VtXVK2t66v4g",
+        "totalVolume": 14858.1144441606,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T06:37:16Z"
+      }
+    ]
+  },
+  {
+    "network": "solana",
+    "name": "WeChat / SOL",
+    "address": "9Y8eASLbBzcY5p4fJQNH8QqLCDCH8TEV7WYZ26FNCYW9",
+    "whaleTraders": [
+      {
+        "address": "DHrHQLbxjGMo85JzRCWwdEbWK1uDZAJQjVKrWrsUhayb",
+        "totalVolume": 24903.3924473856,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-15T21:20:42Z"
+      }
+    ]
+  },
+  {
+    "network": "solana",
+    "name": "Tiktok / SOL",
+    "address": "CHuAZ7zPbwNHeGaWNod5aBh8JfPEXELXdEAtVGp3nABy",
+    "whaleTraders": [
+      {
+        "address": "EC88qjpNC9UBgN634LuMxNJyKVNgHJSYJoJt1tQeDDCE",
+        "totalVolume": 30369.8939678452,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T08:22:31Z"
+      }
+    ]
+  },
+  {
+    "network": "flare",
+    "name": "sFLR / WFLR 0.01%",
+    "address": "0xc9baba3f36ccaa54675deecc327ec7eaa48cb97d",
+    "whaleTraders": [
+      {
+        "address": "0x43039ca8f2bf2030777c03e89eec5fcfa6a8d1e6",
+        "totalVolume": 14883.1771302218,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:13:43Z"
+      },
+      {
+        "address": "0x89e8270054bf75f91367cd76f6570aed151c2a58",
+        "totalVolume": 10022.9543240457,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T13:35:15Z"
+      }
+    ]
+  },
+  {
+    "network": "flare",
+    "name": "flrETH / WETH 0.05%",
+    "address": "0xa8697b82a5e9f108296c6299859e82472340aea7",
+    "whaleTraders": [
+      {
+        "address": "0x43039ca8f2bf2030777c03e89eec5fcfa6a8d1e6",
+        "totalVolume": 14820.5986507168,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:18:55Z"
+      }
+    ]
+  },
+  {
+    "network": "flare",
+    "name": "sFLR / WFLR 0.05%",
+    "address": "0x25b4f3930934f0a3cbb885c624ecee75a2917144",
+    "whaleTraders": [
+      {
+        "address": "0x6e3e3271a75a3cbcc2eccbb3424848bc4319d229",
+        "totalVolume": 42081.9014688922,
+        "tradeCount": 4,
+        "lastTradeTimestamp": "2025-04-15T20:38:49Z"
+      }
+    ]
+  },
+  {
+    "network": "sui-network",
+    "name": "haSUI / SUI 0.01%",
+    "address": "0x871d8a227114f375170f149f7e9d45be822dd003eba225e83c05ac80828596bc",
+    "whaleTraders": [
+      {
+        "address": "0x1b02a3d09ad6efe6605af508635861b685e6795fd255e212d76061d3b11003f5",
+        "totalVolume": 10945.2,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:38:52Z"
+      }
+    ]
+  },
+  {
+    "network": "sui-network",
+    "name": "USDC / SUI 0.25%",
+    "address": "0xb8d7d9e66a60c239e7a60110efcf8de6c705580ed924d0dde141f4a0e2c90105",
+    "whaleTraders": [
+      {
+        "address": "0x9f5cae60097d64c21f1d71799943cb02593b1c72957a3b65fdd18237ad3cd21d",
+        "totalVolume": 234200.088451237,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T17:46:02Z"
+      },
+      {
+        "address": "0xfaa473b4bb9991eb286bb4cbe15e07cf321bddfb533230ce6591b9bb1c983f4d",
+        "totalVolume": 214216.8084176224,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T17:45:09Z"
+      },
+      {
+        "address": "0x698e32431285bf57169b8c1c493dfe469f977adbf8bdd7efb7dd62021b74eb64",
+        "totalVolume": 63893.0909016638,
+        "tradeCount": 3,
+        "lastTradeTimestamp": "2025-04-16T17:40:38Z"
+      },
+      {
+        "address": "0x8a71a23252f2eac01d6c542e12d0769e683117e33432b9be83ba83beb1b503ee",
+        "totalVolume": 43703.7447052236,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:48:11Z"
+      },
+      {
+        "address": "0xa79a13b49bb9953e9ef1e4adf43f1d5c96c3b0b479154175f8fa50d61f3c9003",
+        "totalVolume": 34701.0069666926,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T17:48:08Z"
+      },
+      {
+        "address": "0x1e9b7dc9f6c7c99916bcde194ed0466ca32f9c9a390b02e27e6f84353249223c",
+        "totalVolume": 17909.0447022067,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:48:08Z"
+      },
+      {
+        "address": "0x62310ee294108c13f3496ce6895f12f3c2cf3994c74c2911501535e23ccc74ff",
+        "totalVolume": 13616.0906256039,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:40:08Z"
+      },
+      {
+        "address": "0x672eb50c2c6d0d1dadebc8951f53478a8b11f1c20aedc126ca5fe04dcb97594e",
+        "totalVolume": 11488.5,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:48:07Z"
+      }
+    ]
+  },
+  {
+    "network": "pulsechain",
+    "name": "ATROPA / DAI",
+    "address": "0x5ef7aac0de4f2012cb36730da140025b113fada4",
+    "whaleTraders": [
+      {
+        "address": "0xf554c8279c3df563e9b2d128106e28d9ecac2c58",
+        "totalVolume": 59558.1190959866,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T16:46:35Z"
+      },
+      {
+        "address": "0x13c1df1489456f3f194366805e3e7c9b9c4f2580",
+        "totalVolume": 33322.9771461686,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:51:05Z"
+      }
+    ]
+  },
+  {
+    "network": "mantle",
+    "name": "WETH / USDT",
+    "address": "0xa15c851afc33aab6e478d538a4a8c66cacc19686",
+    "whaleTraders": [
+      {
+        "address": "0x0a9041026facb39775209bb16c0e39b9b51f65f2",
+        "totalVolume": 11192.380917542023,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:30:08Z"
+      }
+    ]
+  },
+  {
+    "network": "mantle",
+    "name": "USDe / USDT 0.01%",
+    "address": "0x36a7aff497eef6a9cd7d0e7bc243793fcb3e57e2",
+    "whaleTraders": [
+      {
+        "address": "0x0a9041026facb39775209bb16c0e39b9b51f65f2",
+        "totalVolume": 29836.2841235134,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T12:42:46Z"
+      }
+    ]
+  },
+  {
+    "network": "mantle",
+    "name": "USDe / WMNT",
+    "address": "0x5d54d430d1fd9425976147318e6080479bffc16d",
+    "whaleTraders": [
+      {
+        "address": "0x0a9041026facb39775209bb16c0e39b9b51f65f2",
+        "totalVolume": 230736.04970241888,
+        "tradeCount": 16,
+        "lastTradeTimestamp": "2025-04-16T07:33:48Z"
+      }
+    ]
+  },
+  {
+    "network": "mantle",
+    "name": "USDC / USDT",
+    "address": "0x48c1a89af1102cad358549e9bb16ae5f96cddfec",
+    "whaleTraders": [
+      {
+        "address": "0x0a9041026facb39775209bb16c0e39b9b51f65f2",
+        "totalVolume": 72017.14863907293,
+        "tradeCount": 4,
+        "lastTradeTimestamp": "2025-04-16T08:02:14Z"
+      }
+    ]
+  },
+  {
+    "network": "linea",
+    "name": "USDC / axlUSDC 0.01%",
+    "address": "0x85164b6d8a74ba481ab6d02d2c4e779eccbaf982",
+    "whaleTraders": [
+      {
+        "address": "0xd7baef8e025bc79db5f64da310aac9bae23061bd",
+        "totalVolume": 12538.8171282836,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T00:41:34Z"
+      },
+      {
+        "address": "0x2102c32a09cbced4146c3db2d27ae21a185bda43",
+        "totalVolume": 12221.3341721803,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T01:19:54Z"
+      }
+    ]
+  },
+  {
+    "network": "base",
+    "name": "WETH / USDC 0.01%",
+    "address": "0x72ab388e2e2f6facef59e3c3fa2c4e29011c2d38",
+    "whaleTraders": [
+      {
+        "address": "0x924e6508bb63128085d658e5851cb86e99a80c91",
+        "totalVolume": 10200.0340047349,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:57:37Z"
+      }
+    ]
+  },
+  {
+    "network": "base",
+    "name": "cbBTC / WETH 0.01%",
+    "address": "0xc211e1f853a898bd1302385ccde55f33a8c4b3f3",
+    "whaleTraders": [
+      {
+        "address": "0x184e2229590f1f3ffe32fef0c748a877d13e33c6",
+        "totalVolume": 11334.5623738798,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:57:37Z"
+      }
+    ]
+  },
+  {
+    "network": "base",
+    "name": "USDC / WETH 0.05%",
+    "address": "0xd0b53d9277642d899df5c87a3966a349a798f224",
+    "whaleTraders": [
+      {
+        "address": "0x88492ffacdc1e7d2b13e9953877a20f057609edf",
+        "totalVolume": 563770.5270541044,
+        "tradeCount": 25,
+        "lastTradeTimestamp": "2025-04-16T17:52:15Z"
+      },
+      {
+        "address": "0x7468a1976cd1bfb4129a56c62b59b6bd91fd1f16",
+        "totalVolume": 98891.746865355,
+        "tradeCount": 6,
+        "lastTradeTimestamp": "2025-04-16T17:52:35Z"
+      },
+      {
+        "address": "0x1d009b32f3538828183761d627bdc19c09f457bc",
+        "totalVolume": 31585.0055163529,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T17:57:45Z"
+      },
+      {
+        "address": "0xe39d0b685e98bad6aee783be8f86425b26df3e4f",
+        "totalVolume": 26761.890292713,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:58:11Z"
+      },
+      {
+        "address": "0xe6ad22503d39c35662f83d406d433652f2813d44",
+        "totalVolume": 26508.6552079545,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:58:01Z"
+      },
+      {
+        "address": "0x21bb873d3aa6293b7050b554f03b07487b30b66e",
+        "totalVolume": 20932.1713044085,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:58:37Z"
+      },
+      {
+        "address": "0x030f20455a012898e99b91e73c9996ed512d2894",
+        "totalVolume": 19734.1344792756,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:58:01Z"
+      },
+      {
+        "address": "0x36fd943945a59e5e24a47757232180585cbf2059",
+        "totalVolume": 19534.5,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:58:01Z"
+      },
+      {
+        "address": "0xfb438f6e125b98b7828a6af6525907e8d857de7e",
+        "totalVolume": 15821.3352507407,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:57:49Z"
+      },
+      {
+        "address": "0x184e2229590f1f3ffe32fef0c748a877d13e33c6",
+        "totalVolume": 11348.1951156616,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:57:37Z"
+      },
+      {
+        "address": "0x61604f237f42804355146ae0aa94849849ef956e",
+        "totalVolume": 11292.8523765634,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:58:05Z"
+      },
+      {
+        "address": "0xee03a859ea4697b8fe351fc866a311128d527058",
+        "totalVolume": 11288.8600278674,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:57:17Z"
+      },
+      {
+        "address": "0x74900cde422586ebcfce794e8b7a3b5ffb96480f",
+        "totalVolume": 10954.0966410649,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:53:23Z"
+      },
+      {
+        "address": "0xe438edb6b49c20d1e0b08e86061dba1e3a971adf",
+        "totalVolume": 10835.8704193083,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:57:39Z"
+      }
+    ]
+  },
+  {
+    "network": "base",
+    "name": "WETH / USDC 0.05%",
+    "address": "0xb2cc224c1c9fee385f8ad6a55b4d94e92359dc59",
+    "whaleTraders": [
+      {
+        "address": "0xe7a9317834b1436edf8ce311d617925db26dff64",
+        "totalVolume": 1251851.02178467,
+        "tradeCount": 37,
+        "lastTradeTimestamp": "2025-04-16T17:52:15Z"
+      },
+      {
+        "address": "0xe90ea2c669cd35bfa1bb71b2a2de0427abd159a0",
+        "totalVolume": 260695.75609154417,
+        "tradeCount": 13,
+        "lastTradeTimestamp": "2025-04-16T17:52:35Z"
+      },
+      {
+        "address": "0x95c3ba35a943c28c811954369a7b9ccc328ddd46",
+        "totalVolume": 88946.4017005045,
+        "tradeCount": 3,
+        "lastTradeTimestamp": "2025-04-16T17:53:05Z"
+      },
+      {
+        "address": "0xe438edb6b49c20d1e0b08e86061dba1e3a971adf",
+        "totalVolume": 40750.5552276042,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:58:07Z"
+      },
+      {
+        "address": "0x2b8804c2b652f05f7fdd8e0a02f01ee58f01667e",
+        "totalVolume": 36929.7152161572,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T17:58:11Z"
+      },
+      {
+        "address": "0x1f976a20a6a96787bd90f99f0ba19d929fffbf26",
+        "totalVolume": 34199.228297934,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:58:03Z"
+      },
+      {
+        "address": "0x4ac508c0d105084420136636e22b08c4a15fc7d9",
+        "totalVolume": 31257.6503406782,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:57:49Z"
+      },
+      {
+        "address": "0x439759d3e07ee8b52cb5ce89683cb2ec472ebb10",
+        "totalVolume": 29007.0856586769,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T17:54:09Z"
+      },
+      {
+        "address": "0x74900cde422586ebcfce794e8b7a3b5ffb96480f",
+        "totalVolume": 28620.005121823102,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T17:52:47Z"
+      },
+      {
+        "address": "0x57447082e8e79487abfeb57e165906bf724dc007",
+        "totalVolume": 24995.623186949502,
+        "tradeCount": 2,
+        "lastTradeTimestamp": "2025-04-16T17:53:05Z"
+      },
+      {
+        "address": "0x489cb66325e23aea87f8fef927ff0f02147933ee",
+        "totalVolume": 23623.762423165,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:58:37Z"
+      },
+      {
+        "address": "0x75f81e135c0349a5689944d46dc8b8961096b1da",
+        "totalVolume": 20080.45523083,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:58:35Z"
+      },
+      {
+        "address": "0xea83ea62ed668857c7280e305bb2b15bb4e6632d",
+        "totalVolume": 17561.3501107736,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:58:17Z"
+      },
+      {
+        "address": "0x27cde9b6c52ba21909719d0d1515e8f7ad5223d7",
+        "totalVolume": 10978.4226478333,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:58:03Z"
+      },
+      {
+        "address": "0x6d4603e566761f163811eb329e4313d40c7e20c8",
+        "totalVolume": 10699.1729457528,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:54:41Z"
+      },
+      {
+        "address": "0xee30b22013239da38bb95a98b0b3cac25c5dcaff",
+        "totalVolume": 10210.158553039,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:58:17Z"
+      }
+    ]
+  },
+  {
+    "network": "base",
+    "name": "AERO / USDC",
+    "address": "0x6cdcb1c4a4d1c3c6d054b27ac5b77e89eafb971d",
+    "whaleTraders": [
+      {
+        "address": "0xd0147adfa6557295700d883febcb00303cf04cdd",
+        "totalVolume": 37366.2366362802,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:41:35Z"
+      },
+      {
+        "address": "0x39c039010cfe1a80d3e63697564ad24f20373921",
+        "totalVolume": 23194.8819214399,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:41:05Z"
+      },
+      {
+        "address": "0x4b9773f7da8e3757eacb6054b70f9dcb7c0f2ed7",
+        "totalVolume": 15420.1249131232,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:56:19Z"
+      },
+      {
+        "address": "0xa73072adc6c34859426fcc29bc6ca2cac07c93c3",
+        "totalVolume": 11436.2284418936,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:50:29Z"
+      },
+      {
+        "address": "0xd13da05b9288ba4961973110594bd0fe3428791f",
+        "totalVolume": 10583.3403041468,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:56:15Z"
+      }
+    ]
+  },
+  {
+    "network": "sepolia-testnet",
+    "name": "YBTC / WETH 0.3%",
+    "address": "0xc4545a0b4a87cbaff03a73f45c377c0b5f416e00",
+    "whaleTraders": [
+      {
+        "address": "0x9a94c253ead016feef368061a0b3778bf605b958",
+        "totalVolume": 155285.3218443258,
+        "tradeCount": 11,
+        "lastTradeTimestamp": "2025-04-16T14:58:24Z"
+      },
+      {
+        "address": "0x6810c2aca47fa005d1c1ff763d3fc33f19081d7e",
+        "totalVolume": 14262.3,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:54:00Z"
+      },
+      {
+        "address": "0xe42c439d836708f43f77a65c198a2d7f55b3f3f4",
+        "totalVolume": 14110.5705291808,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:54:24Z"
+      },
+      {
+        "address": "0x851dd1bcc3ef7bf945fcc5a754d882909aeace64",
+        "totalVolume": 13618.0125,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:18:36Z"
+      },
+      {
+        "address": "0x3763dd6330cc1e66a76f704dfc78092bd78b0a01",
+        "totalVolume": 12713.68,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:24:00Z"
+      },
+      {
+        "address": "0xcb1a261fdef17d0252342b03b6ca14af42d69532",
+        "totalVolume": 10609.9875,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:37:00Z"
+      },
+      {
+        "address": "0xb420bc8f6f076db4be4d5625263b8832dc2109a3",
+        "totalVolume": 10346.115,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:22:12Z"
+      }
+    ]
+  },
+  {
+    "network": "sepolia-testnet",
+    "name": "YU / WETH 0.3%",
+    "address": "0x5e7c0c5a214612f9d1d377cd349c8d139f87d87c",
+    "whaleTraders": [
+      {
+        "address": "0xe42c439d836708f43f77a65c198a2d7f55b3f3f4",
+        "totalVolume": 44285.5397364678,
+        "tradeCount": 3,
+        "lastTradeTimestamp": "2025-04-16T00:16:36Z"
+      },
+      {
+        "address": "0xe04dd07974751cfd80fde7dd3d22493dc070e143",
+        "totalVolume": 18755.1491480044,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T00:55:48Z"
+      },
+      {
+        "address": "0x0afa6206ff3a205404c51955907de779f654f700",
+        "totalVolume": 14800.3190561508,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T00:16:24Z"
+      },
+      {
+        "address": "0x1b77a68b5212d289bafbc6a0ac4d56102086e52a",
+        "totalVolume": 13279.9436,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T00:30:12Z"
+      }
+    ]
+  },
+  {
+    "network": "sepolia-testnet",
+    "name": "YBTC / WETH 1%",
+    "address": "0xb59b4186e53c2b37605782ae273447d8e5df6057",
+    "whaleTraders": [
+      {
+        "address": "0xc0dec722b431c02a0787f349587b783a0f2f3281",
+        "totalVolume": 283175.750191045,
+        "tradeCount": 10,
+        "lastTradeTimestamp": "2025-04-15T18:23:36Z"
+      },
+      {
+        "address": "0x851dd1bcc3ef7bf945fcc5a754d882909aeace64",
+        "totalVolume": 16644.2375,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:18:36Z"
+      },
+      {
+        "address": "0x1b77a68b5212d289bafbc6a0ac4d56102086e52a",
+        "totalVolume": 15203.232,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T00:23:24Z"
+      },
+      {
+        "address": "0x7477be6928becbb712514ab117fad809892701a8",
+        "totalVolume": 14899.7205,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T09:16:12Z"
+      },
+      {
+        "address": "0xcb1a261fdef17d0252342b03b6ca14af42d69532",
+        "totalVolume": 12967.7625,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:37:00Z"
+      },
+      {
+        "address": "0x719d7810e68e21e51811207e713b08c2bc67af99",
+        "totalVolume": 10369.71,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-15T21:02:36Z"
+      },
+      {
+        "address": "0x9a94c253ead016feef368061a0b3778bf605b958",
+        "totalVolume": 10220.9545429027,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:37:48Z"
+      }
+    ]
+  },
+  {
+    "network": "sepolia-testnet",
+    "name": "METH / WETH 0.3%",
+    "address": "0x84f491dd1e1bb2b251bea2cab9ac6849e94bfbc5",
+    "whaleTraders": [
+      {
+        "address": "0x6c9236e425c98a85bd909f89941e2fa3705a103e",
+        "totalVolume": 59097140.92061875,
+        "tradeCount": 55,
+        "lastTradeTimestamp": "2025-04-15T18:14:48Z"
+      },
+      {
+        "address": "0x1d12bc29ffdba5f43c4ff4d730e40cdb2d4ffcf3",
+        "totalVolume": 48513169.20999999,
+        "tradeCount": 5,
+        "lastTradeTimestamp": "2025-04-16T02:18:36Z"
+      },
+      {
+        "address": "0x0a2a5d5eb2c1caaec4ec132b2e1621999b24d8fa",
+        "totalVolume": 23484104.14412886,
+        "tradeCount": 20,
+        "lastTradeTimestamp": "2025-04-16T02:17:00Z"
+      },
+      {
+        "address": "0x6ecb261bf8ceea9f4a49c8281e5e309688fc8b6e",
+        "totalVolume": 17592000,
+        "tradeCount": 6,
+        "lastTradeTimestamp": "2025-04-15T18:14:48Z"
+      },
+      {
+        "address": "0xc284f0d1a767c37253bbbe56c1518200e8e5ea9b",
+        "totalVolume": 12158141.30270129,
+        "tradeCount": 10,
+        "lastTradeTimestamp": "2025-04-16T02:28:00Z"
+      },
+      {
+        "address": "0x0917351e24d58dbaa3e2e55f03444226b348dccf",
+        "totalVolume": 3799704,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T04:38:00Z"
+      },
+      {
+        "address": "0xe42c439d836708f43f77a65c198a2d7f55b3f3f4",
+        "totalVolume": 1753350.4824560455,
+        "tradeCount": 5,
+        "lastTradeTimestamp": "2025-04-15T18:15:00Z"
+      },
+      {
+        "address": "0x8b5797f5014a97b99858aadf0d1e9b80efc43e0b",
+        "totalVolume": 1395612.26228464,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:14:12Z"
+      },
+      {
+        "address": "0x22555c11e8dbf17d2170d7d40c694d78bdca131f",
+        "totalVolume": 854134.2,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T12:47:24Z"
+      },
+      {
+        "address": "0xb8d5a29c594fb1095975a16ea41551b9546c979d",
+        "totalVolume": 222348.54,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T09:16:36Z"
+      },
+      {
+        "address": "0x03b14b626e9de7c99ef355b693f79d51ab31bb00",
+        "totalVolume": 122606.64,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:14:48Z"
+      },
+      {
+        "address": "0x546725b6181ca5ebe2905fa71e161857b071d235",
+        "totalVolume": 111342.688347338,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T16:29:24Z"
+      },
+      {
+        "address": "0xf8c29be3e7ad0a6f78ce26751f75f6384e814660",
+        "totalVolume": 108082.306950577,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-15T23:53:24Z"
+      },
+      {
+        "address": "0xeb083e0bd557514d4f2153e300838aa16b775ee5",
+        "totalVolume": 107580.56,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-15T19:36:00Z"
+      },
+      {
+        "address": "0xc2e2ce0d38ca1146998b79d2fb7b4e7d39f6c19c",
+        "totalVolume": 95050.8,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T00:24:12Z"
+      },
+      {
+        "address": "0xdaac5763827b29c24eece785f995eb0e864fd947",
+        "totalVolume": 86779.55,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T10:28:36Z"
+      },
+      {
+        "address": "0x2dcdd11a0702d1a10624d0e0ff88b62394082fb8",
+        "totalVolume": 63894.4,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T03:06:36Z"
+      },
+      {
+        "address": "0x59cfc7c13068039e8908b9f65133908b55e32541",
+        "totalVolume": 53510.22,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T13:34:00Z"
+      }
+    ]
+  },
+  {
+    "network": "sepolia-testnet",
+    "name": "tBTC / WETH 0.3%",
+    "address": "0xbea4e966f6110208e93b3f321413988828f11eb9",
+    "whaleTraders": [
+      {
+        "address": "0xe42c439d836708f43f77a65c198a2d7f55b3f3f4",
+        "totalVolume": 122149.75773318722,
+        "tradeCount": 10,
+        "lastTradeTimestamp": "2025-04-15T20:02:36Z"
+      },
+      {
+        "address": "0xd19b598712413e69b48f70c5ea16286cf8dfd632",
+        "totalVolume": 22941.3384000011,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T07:14:36Z"
+      }
+    ]
+  },
+  {
+    "network": "sepolia-testnet",
+    "name": "MON / WETH 1%",
+    "address": "0xfac1138c5a426d26a6e350868eee6501788f1417",
+    "whaleTraders": [
+      {
+        "address": "0x3f81c5d9378eaeb5051ea0d6cace7e146daef098",
+        "totalVolume": 31812.6,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T05:17:00Z"
+      }
+    ]
+  },
+  {
+    "network": "sepolia-testnet",
+    "name": "tBTC / YBTC 0.01%",
+    "address": "0x5cdb206564336ebd6d15744a36cdbb6b1eefaf2a",
+    "whaleTraders": [
+      {
+        "address": "0xc0dec722b431c02a0787f349587b783a0f2f3281",
+        "totalVolume": 129208.500458577,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:46:24Z"
+      },
+      {
+        "address": "0xe42c439d836708f43f77a65c198a2d7f55b3f3f4",
+        "totalVolume": 108026.9278806438,
+        "tradeCount": 9,
+        "lastTradeTimestamp": "2025-04-15T20:02:36Z"
+      }
+    ]
+  },
+  {
+    "network": "sepolia-testnet",
+    "name": "USDC / WETH 0.05%",
+    "address": "0x3289680dd4d6c10bb19b899729cda5eef58aeff1",
+    "whaleTraders": [
+      {
+        "address": "0xf2e5c357502c97ce82c6929a741bbadc85962521",
+        "totalVolume": 27098.767975,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:17:12Z"
+      }
+    ]
+  },
+  {
+    "network": "sepolia-testnet",
+    "name": "YU / WETH 1%",
+    "address": "0x91bee36974282b9335f694035ca047309ea0b026",
+    "whaleTraders": [
+      {
+        "address": "0x1b77a68b5212d289bafbc6a0ac4d56102086e52a",
+        "totalVolume": 10865.4084,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T00:30:12Z"
+      }
+    ]
+  },
+  {
+    "network": "sepolia-testnet",
+    "name": "YU / YBTC 0.3%",
+    "address": "0xc0b6f0c5d4c33c59b4672000d490992b7097ba40",
+    "whaleTraders": [
+      {
+        "address": "0xfc97e478bf571c176bbfd0dc3e8b1d4114dd6724",
+        "totalVolume": 31792.6311675536,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:12:36Z"
+      },
+      {
+        "address": "0xb89736e1d217f16bf4ff651c82aa9387a9b0e7d4",
+        "totalVolume": 25809.7730916417,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T07:31:36Z"
+      },
+      {
+        "address": "0xb0742f1834443f96bbe5ac112f2a10038d7d2928",
+        "totalVolume": 10753.6408480033,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T14:46:36Z"
+      },
+      {
+        "address": "0x276f55a95f8579d1ba13680167d1211bea5454da",
+        "totalVolume": 10174.1237960627,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T13:44:00Z"
+      }
+    ]
+  },
+  {
+    "network": "sepolia-testnet",
+    "name": "tBTC / YU 0.3%",
+    "address": "0x74e95e8cd4781f33b7a237647dc6f78577e1e490",
+    "whaleTraders": [
+      {
+        "address": "0xd19b598712413e69b48f70c5ea16286cf8dfd632",
+        "totalVolume": 22669.8949282301,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T07:14:36Z"
+      }
+    ]
+  },
+  {
+    "network": "sepolia-testnet",
+    "name": "METH / tBTC 1%",
+    "address": "0xa9df6536d606241e2708b3b6da63dd7163fb734d",
+    "whaleTraders": [
+      {
+        "address": "0xe42c439d836708f43f77a65c198a2d7f55b3f3f4",
+        "totalVolume": 12315.2416505097,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T07:41:12Z"
+      }
+    ]
+  },
+  {
+    "network": "hedera-hashgraph",
+    "name": "WHBAR / USDC 0.15%",
+    "address": "0xc5b707348da504e9be1bd4e21525459830e7b11d",
+    "whaleTraders": [
+      {
+        "address": "0x00000000000000000000000000000000004a0021",
+        "totalVolume": 12880.2753604293,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:51:32Z"
+      }
+    ]
+  },
+  {
+    "network": "hedera-hashgraph",
+    "name": "USDC[hts] / USDC 0.05%",
+    "address": "0x27784a45fdee4d8f355237a4e92f259c1d7d7617",
+    "whaleTraders": [
+      {
+        "address": "0x00000000000000000000000000000000000c862d",
+        "totalVolume": 14691.99530288,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T03:10:00Z"
+      }
+    ]
+  },
+  {
+    "network": "hedera-hashgraph",
+    "name": "SAUCE / WHBAR 0.3%",
+    "address": "0x5fc19c944f1bccf5159e6ae92dc3bf2ff2576b98",
+    "whaleTraders": [
+      {
+        "address": "0x00000000000000000000000000000000004a0021",
+        "totalVolume": 12880.2753604293,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T17:51:32Z"
+      },
+      {
+        "address": "0x0000000000000000000000000000000000428a2a",
+        "totalVolume": 11297.8014674524,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T15:10:38Z"
+      }
+    ]
+  },
+  {
+    "network": "scroll",
+    "name": "STONE / WETH 0.002%",
+    "address": "0x0565b714788fe7f6f337ba1be6f838b02228df3d",
+    "whaleTraders": [
+      {
+        "address": "0x3bb5c8a00190da68059f0f66c24794584eb10d07",
+        "totalVolume": 10731.131625283,
+        "tradeCount": 1,
+        "lastTradeTimestamp": "2025-04-16T08:51:53Z"
+      }
+    ]
+  }
+]
