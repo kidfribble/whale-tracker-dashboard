@@ -1,0 +1,20 @@
+{
+  "address": "0x72aa98ad554c9846c0cb2ce2d4d46c170b105322",
+  "network": "cro",
+  "holdings": [
+    {
+      "token": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "quantity": 1.3785497825539097,
+      "value_usd": 58702.687311699905
+    },
+    {
+      "token": "Tether",
+      "symbol": "USDT",
+      "quantity": 1378.5497825539096,
+      "value_usd": 1358.1001789219183
+    }
+  ],
+  "total_value_usd": 60060.78749062182,
+  "last_updated": "2025-06-21T22:00:07.252Z"
+}

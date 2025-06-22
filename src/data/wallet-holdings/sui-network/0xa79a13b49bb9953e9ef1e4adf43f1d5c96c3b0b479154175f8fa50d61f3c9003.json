@@ -1,0 +1,20 @@
+{
+  "address": "0xa79a13b49bb9953e9ef1e4adf43f1d5c96c3b0b479154175f8fa50d61f3c9003",
+  "network": "sui-network",
+  "holdings": [
+    {
+      "token": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "quantity": 4.723457488242275,
+      "value_usd": 233056.89527596935
+    },
+    {
+      "token": "Tether",
+      "symbol": "USDT",
+      "quantity": 4723.457488242275,
+      "value_usd": 4717.2255299699855
+    }
+  ],
+  "total_value_usd": 237774.12080593934,
+  "last_updated": "2025-06-21T22:01:27.386Z"
+}

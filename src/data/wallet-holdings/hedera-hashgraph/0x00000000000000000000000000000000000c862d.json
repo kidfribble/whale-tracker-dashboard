@@ -1,0 +1,26 @@
+{
+  "address": "0x00000000000000000000000000000000000c862d",
+  "network": "hedera-hashgraph",
+  "holdings": [
+    {
+      "token": "Ethereum",
+      "symbol": "ETH",
+      "quantity": 5.611654448274749,
+      "value_usd": 23083.347224019053
+    },
+    {
+      "token": "USD Coin",
+      "symbol": "USDC",
+      "quantity": 5611.654448274749,
+      "value_usd": 5624.38903689315
+    },
+    {
+      "token": "Tether",
+      "symbol": "USDT",
+      "quantity": 5611.654448274749,
+      "value_usd": 5624.38903689315
+    }
+  ],
+  "total_value_usd": 34332.12529780535,
+  "last_updated": "2025-06-21T22:04:09.689Z"
+}

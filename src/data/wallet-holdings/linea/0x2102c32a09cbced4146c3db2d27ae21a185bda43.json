@@ -1,0 +1,20 @@
+{
+  "address": "0x2102c32a09cbced4146c3db2d27ae21a185bda43",
+  "network": "linea",
+  "holdings": [
+    {
+      "token": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "quantity": 3.6503461416034044,
+      "value_usd": 172195.64836991095
+    },
+    {
+      "token": "Tether",
+      "symbol": "USDT",
+      "quantity": 3650.3461416034042,
+      "value_usd": 3629.7028241828857
+    }
+  ],
+  "total_value_usd": 175825.35119409385,
+  "last_updated": "2025-06-21T22:01:43.413Z"
+}

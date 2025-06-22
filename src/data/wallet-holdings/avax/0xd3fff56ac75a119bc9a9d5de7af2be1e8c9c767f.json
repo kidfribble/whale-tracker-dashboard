@@ -1,0 +1,38 @@
+{
+  "address": "0xd3fff56ac75a119bc9a9d5de7af2be1e8c9c767f",
+  "network": "avax",
+  "holdings": [
+    {
+      "token": "Ethereum",
+      "symbol": "ETH",
+      "quantity": 9.589725386896088,
+      "value_usd": 47153.794434908414
+    },
+    {
+      "token": "USD Coin",
+      "symbol": "USDC",
+      "quantity": 9589.725386896089,
+      "value_usd": 9765.623244642571
+    },
+    {
+      "token": "Tether",
+      "symbol": "USDT",
+      "quantity": 9589.725386896089,
+      "value_usd": 9765.623244642571
+    },
+    {
+      "token": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "quantity": 9.589725386896088,
+      "value_usd": 567435.1982180449
+    },
+    {
+      "token": "Avalanche",
+      "symbol": "AVAX",
+      "quantity": 958.9725386896089,
+      "value_usd": 91962.83299607933
+    }
+  ],
+  "total_value_usd": 726083.0721383179,
+  "last_updated": "2025-06-21T21:59:29.200Z"
+}

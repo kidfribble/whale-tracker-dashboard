@@ -1,0 +1,26 @@
+{
+  "address": "0x6ab0e8dd7eb6defb53b0ceebda2b00d543d33fa1",
+  "network": "eth",
+  "holdings": [
+    {
+      "token": "Compound",
+      "symbol": "COMP",
+      "quantity": 416.7569506150903,
+      "value_usd": 17368.63558859888
+    },
+    {
+      "token": "Aave",
+      "symbol": "AAVE",
+      "quantity": 416.7569506150903,
+      "value_usd": 17368.63558859888
+    },
+    {
+      "token": "Uniswap",
+      "symbol": "UNI",
+      "quantity": 416.7569506150903,
+      "value_usd": 17368.63558859888
+    }
+  ],
+  "total_value_usd": 52105.906765796644,
+  "last_updated": "2025-06-21T21:56:26.924Z"
+}

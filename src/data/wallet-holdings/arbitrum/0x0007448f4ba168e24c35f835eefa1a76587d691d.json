@@ -1,0 +1,38 @@
+{
+  "address": "0x0007448f4ba168e24c35f835eefa1a76587d691d",
+  "network": "arbitrum",
+  "holdings": [
+    {
+      "token": "Ethereum",
+      "symbol": "ETH",
+      "quantity": 8.255566010811844,
+      "value_usd": 38368.47854916091
+    },
+    {
+      "token": "USD Coin",
+      "symbol": "USDC",
+      "quantity": 8255.566010811845,
+      "value_usd": 8362.490300930116
+    },
+    {
+      "token": "Tether",
+      "symbol": "USDT",
+      "quantity": 8255.566010811845,
+      "value_usd": 8362.490300930116
+    },
+    {
+      "token": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "quantity": 8.255566010811844,
+      "value_usd": 466240.4455997275
+    },
+    {
+      "token": "Arbitrum",
+      "symbol": "ARB",
+      "quantity": 825.5566010811845,
+      "value_usd": 68154.3701588718
+    }
+  ],
+  "total_value_usd": 589488.2749096204,
+  "last_updated": "2025-06-21T22:00:23.279Z"
+}

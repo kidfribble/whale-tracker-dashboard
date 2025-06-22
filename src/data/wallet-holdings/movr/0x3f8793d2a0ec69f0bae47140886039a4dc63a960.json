@@ -1,0 +1,20 @@
+{
+  "address": "0x3f8793d2a0ec69f0bae47140886039a4dc63a960",
+  "network": "movr",
+  "holdings": [
+    {
+      "token": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "quantity": 2.9135491272468244,
+      "value_usd": 133102.39661342054
+    },
+    {
+      "token": "Tether",
+      "symbol": "USDT",
+      "quantity": 2913.5491272468244,
+      "value_usd": 2888.399007748983
+    }
+  ],
+  "total_value_usd": 135990.79562116953,
+  "last_updated": "2025-06-21T22:00:01.243Z"
+}

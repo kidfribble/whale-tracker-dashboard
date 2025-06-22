@@ -1,0 +1,26 @@
+{
+  "address": "EC88qjpNC9UBgN634LuMxNJyKVNgHJSYJoJt1tQeDDCE",
+  "network": "solana",
+  "holdings": [
+    {
+      "token": "Ethereum",
+      "symbol": "ETH",
+      "quantity": 8.268362640336727,
+      "value_usd": 38449.32721153189
+    },
+    {
+      "token": "USD Coin",
+      "symbol": "USDC",
+      "quantity": 8268.362640336727,
+      "value_usd": 8375.880173340427
+    },
+    {
+      "token": "Tether",
+      "symbol": "USDT",
+      "quantity": 8268.362640336727,
+      "value_usd": 8375.880173340427
+    }
+  ],
+  "total_value_usd": 55201.08755821274,
+  "last_updated": "2025-06-21T22:01:09.357Z"
+}

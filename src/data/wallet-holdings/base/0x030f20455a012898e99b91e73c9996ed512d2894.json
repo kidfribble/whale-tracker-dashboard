@@ -1,0 +1,38 @@
+{
+  "address": "0x030f20455a012898e99b91e73c9996ed512d2894",
+  "network": "base",
+  "holdings": [
+    {
+      "token": "Ethereum",
+      "symbol": "ETH",
+      "quantity": 7.818145158316111,
+      "value_usd": 35644.65349528571
+    },
+    {
+      "token": "USD Coin",
+      "symbol": "USDC",
+      "quantity": 7818.145158316111,
+      "value_usd": 7905.586615556536
+    },
+    {
+      "token": "Tether",
+      "symbol": "USDT",
+      "quantity": 7818.145158316111,
+      "value_usd": 7905.586615556536
+    },
+    {
+      "token": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "quantity": 7.818145158316111,
+      "value_usd": 434627.98653601826
+    },
+    {
+      "token": "Base",
+      "symbol": "BASE",
+      "quantity": 781.8145158316111,
+      "value_usd": 61123.39371650164
+    }
+  ],
+  "total_value_usd": 547207.2069789186,
+  "last_updated": "2025-06-21T22:02:01.447Z"
+}

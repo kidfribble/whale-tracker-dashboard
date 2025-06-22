@@ -1,0 +1,20 @@
+{
+  "address": "57N5Yv6eb6Y5gHzULQa6xMrMYhMPSXA3VtXVK2t66v4g",
+  "network": "solana",
+  "holdings": [
+    {
+      "token": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "quantity": 0.8488054212450151,
+      "value_usd": 35236.237255882275
+    },
+    {
+      "token": "Tether",
+      "symbol": "USDT",
+      "quantity": 848.8054212450152,
+      "value_usd": 834.3973536322782
+    }
+  ],
+  "total_value_usd": 36070.634609514556,
+  "last_updated": "2025-06-21T22:01:05.351Z"
+}

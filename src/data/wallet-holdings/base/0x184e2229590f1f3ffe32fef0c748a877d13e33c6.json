@@ -1,0 +1,20 @@
+{
+  "address": "0x184e2229590f1f3ffe32fef0c748a877d13e33c6",
+  "network": "base",
+  "holdings": [
+    {
+      "token": "Bald",
+      "symbol": "BALD",
+      "quantity": 176.3621926529413,
+      "value_usd": 3110.362299735318
+    },
+    {
+      "token": "Degen",
+      "symbol": "DEGEN",
+      "quantity": 176.3621926529413,
+      "value_usd": 3110.362299735318
+    }
+  ],
+  "total_value_usd": 6220.724599470636,
+  "last_updated": "2025-06-21T22:01:47.422Z"
+}

@@ -1,0 +1,26 @@
+{
+  "address": "0x56c673ce1b44ccf049c1c7eaabdadbcc40ceb94d",
+  "network": "arbitrum",
+  "holdings": [
+    {
+      "token": "Camelot",
+      "symbol": "GRAIL",
+      "quantity": 285.63444592424503,
+      "value_usd": 8158.703669845046
+    },
+    {
+      "token": "Dopex",
+      "symbol": "DPX",
+      "quantity": 285.63444592424503,
+      "value_usd": 8158.703669845046
+    },
+    {
+      "token": "GMX",
+      "symbol": "GMX",
+      "quantity": 285.63444592424503,
+      "value_usd": 8158.703669845046
+    }
+  ],
+  "total_value_usd": 24476.111009535136,
+  "last_updated": "2025-06-21T22:00:15.266Z"
+}

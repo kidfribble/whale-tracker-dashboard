@@ -1,0 +1,26 @@
+{
+  "address": "0x09583cb666c9a687adeafb50fd556adb6bae6fa6",
+  "network": "polygon_pos",
+  "holdings": [
+    {
+      "token": "SushiSwap",
+      "symbol": "SUSHI",
+      "quantity": 417.1906446153753,
+      "value_usd": 17404.803395459236
+    },
+    {
+      "token": "Aavegotchi",
+      "symbol": "GHST",
+      "quantity": 417.1906446153753,
+      "value_usd": 17404.803395459236
+    },
+    {
+      "token": "QuickSwap",
+      "symbol": "QUICK",
+      "quantity": 417.1906446153753,
+      "value_usd": 17404.803395459236
+    }
+  ],
+  "total_value_usd": 52214.4101863777,
+  "last_updated": "2025-06-21T21:59:21.186Z"
+}

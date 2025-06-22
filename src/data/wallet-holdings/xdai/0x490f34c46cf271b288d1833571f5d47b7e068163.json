@@ -1,0 +1,26 @@
+{
+  "address": "0x490f34c46cf271b288d1833571f5d47b7e068163",
+  "network": "xdai",
+  "holdings": [
+    {
+      "token": "Ethereum",
+      "symbol": "ETH",
+      "quantity": 6.768230335886256,
+      "value_usd": 29422.290774531968
+    },
+    {
+      "token": "USD Coin",
+      "symbol": "USDC",
+      "quantity": 6768.2303358862555,
+      "value_usd": 6815.217724505995
+    },
+    {
+      "token": "Tether",
+      "symbol": "USDT",
+      "quantity": 6768.2303358862555,
+      "value_usd": 6815.217724505995
+    }
+  ],
+  "total_value_usd": 43052.726223543956,
+  "last_updated": "2025-06-21T22:00:41.311Z"
+}

@@ -6,6 +6,7 @@ import PoolSelector from '@/components/PoolSelector';
 import WhaleTraderSelector from '@/components/WhaleTraderSelector';
 import TradeCardSkeleton from '@/components/TradeCardSkeleton';
 import Shimmer from '@/components/Shimmer';
+import WalletHoldingsModal from '@/components/WalletHoldingsModal';
 
 type Network = {
   id: string;
@@ -50,6 +51,8 @@ export default function Dashboard() {
   const [isLoadingNetworks, setIsLoadingNetworks] = useState<boolean>(false);
   const [isLoadingPools, setIsLoadingPools] = useState<boolean>(false);
   const [isLoadingTrades, setIsLoadingTrades] = useState<boolean>(false);
+  const [modalOpen, setModalOpen] = useState<boolean>(false);
+  const [selectedWalletAddress, setSelectedWalletAddress] = useState<string>('');
 
   // Load available networks
   useEffect(() => {
@@ -238,14 +241,28 @@ export default function Dashboard() {
               <div><strong>Time:</strong> {new Date(trade.attributes.block_timestamp).toLocaleString()}</div>
               <div className="mt-2">
                 <strong>Wallet:</strong> 
-                <span className="font-mono text-sm break-all">
+                <button 
+                  onClick={() => {
+                    setSelectedWalletAddress(trade.attributes.tx_from_address);
+                    setModalOpen(true);
+                  }}
+                  className="font-mono text-sm break-all text-blue-600 hover:text-blue-800 hover:underline text-left"
+                >
                   {trade.attributes.tx_from_address}
-                </span>
+                </button>
               </div>
             </li>
           ))}
         </ul>
       )}
+
+      {/* Wallet Holdings Modal */}
+      <WalletHoldingsModal
+        isOpen={modalOpen}
+        onClose={() => setModalOpen(false)}
+        walletAddress={selectedWalletAddress}
+        network={selectedNetwork}
+      />
     </main>
   );
 }

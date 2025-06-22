@@ -1,0 +1,20 @@
+{
+  "address": "0x0000000000000000000000000000000000428a2a",
+  "network": "hedera-hashgraph",
+  "holdings": [
+    {
+      "token": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "quantity": 1.0927533980663158,
+      "value_usd": 45901.72107250889
+    },
+    {
+      "token": "Tether",
+      "symbol": "USDT",
+      "quantity": 1092.7533980663156,
+      "value_usd": 1075.2815004047018
+    }
+  ],
+  "total_value_usd": 46977.00257291359,
+  "last_updated": "2025-06-21T22:04:11.694Z"
+}

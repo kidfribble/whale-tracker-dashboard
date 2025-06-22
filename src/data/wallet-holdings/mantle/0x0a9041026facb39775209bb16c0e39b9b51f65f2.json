@@ -1,0 +1,26 @@
+{
+  "address": "0x0a9041026facb39775209bb16c0e39b9b51f65f2",
+  "network": "mantle",
+  "holdings": [
+    {
+      "token": "Ethereum",
+      "symbol": "ETH",
+      "quantity": 8.505773924276946,
+      "value_usd": 39961.283926059514
+    },
+    {
+      "token": "USD Coin",
+      "symbol": "USDC",
+      "quantity": 8505.773924276946,
+      "value_usd": 8624.53768885598
+    },
+    {
+      "token": "Tether",
+      "symbol": "USDT",
+      "quantity": 8505.773924276946,
+      "value_usd": 8624.53768885598
+    }
+  ],
+  "total_value_usd": 57210.359303771475,
+  "last_updated": "2025-06-21T22:01:39.405Z"
+}

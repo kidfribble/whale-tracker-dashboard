@@ -1,0 +1,26 @@
+{
+  "address": "0x38ee4995291755f36f4fa1dab6a663fbc407731f",
+  "network": "optimism",
+  "holdings": [
+    {
+      "token": "Ethereum",
+      "symbol": "ETH",
+      "quantity": 5.264923545279089,
+      "value_usd": 21288.29135969711
+    },
+    {
+      "token": "USD Coin",
+      "symbol": "USDC",
+      "quantity": 5264.923545279089,
+      "value_usd": 5269.4954888507045
+    },
+    {
+      "token": "Tether",
+      "symbol": "USDT",
+      "quantity": 5264.923545279089,
+      "value_usd": 5269.4954888507045
+    }
+  ],
+  "total_value_usd": 31827.28233739852,
+  "last_updated": "2025-06-21T22:00:57.341Z"
+}

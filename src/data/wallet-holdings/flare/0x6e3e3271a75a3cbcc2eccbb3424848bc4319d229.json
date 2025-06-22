@@ -1,0 +1,26 @@
+{
+  "address": "0x6e3e3271a75a3cbcc2eccbb3424848bc4319d229",
+  "network": "flare",
+  "holdings": [
+    {
+      "token": "Ethereum",
+      "symbol": "ETH",
+      "quantity": 5.300745039974208,
+      "value_usd": 21471.492387561764
+    },
+    {
+      "token": "USD Coin",
+      "symbol": "USDC",
+      "quantity": 5300.745039974208,
+      "value_usd": 5306.115284527507
+    },
+    {
+      "token": "Tether",
+      "symbol": "USDT",
+      "quantity": 5300.745039974208,
+      "value_usd": 5306.115284527507
+    }
+  ],
+  "total_value_usd": 32083.722956616777,
+  "last_updated": "2025-06-21T22:01:15.365Z"
+}

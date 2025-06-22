@@ -1,0 +1,20 @@
+{
+  "address": "0x46619117bfccce427350754988b8188f9d421eac",
+  "network": "optimism",
+  "holdings": [
+    {
+      "token": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "quantity": 1.1799285472052816,
+      "value_usd": 49771.361124149524
+    },
+    {
+      "token": "Tether",
+      "symbol": "USDT",
+      "quantity": 1179.9285472052816,
+      "value_usd": 1161.4784147330524
+    }
+  ],
+  "total_value_usd": 50932.839538882574,
+  "last_updated": "2025-06-21T22:01:01.345Z"
+}

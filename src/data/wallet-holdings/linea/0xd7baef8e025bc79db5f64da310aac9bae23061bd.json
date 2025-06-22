@@ -1,0 +1,26 @@
+{
+  "address": "0xd7baef8e025bc79db5f64da310aac9bae23061bd",
+  "network": "linea",
+  "holdings": [
+    {
+      "token": "Ethereum",
+      "symbol": "ETH",
+      "quantity": 8.108016221294566,
+      "value_usd": 37441.04369876175
+    },
+    {
+      "token": "USD Coin",
+      "symbol": "USDC",
+      "quantity": 8108.016221294565,
+      "value_usd": 8208.195797566235
+    },
+    {
+      "token": "Tether",
+      "symbol": "USDT",
+      "quantity": 8108.016221294565,
+      "value_usd": 8208.195797566235
+    }
+  ],
+  "total_value_usd": 53857.435293894225,
+  "last_updated": "2025-06-21T22:01:41.410Z"
+}

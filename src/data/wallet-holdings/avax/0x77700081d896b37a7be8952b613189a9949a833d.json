@@ -1,0 +1,20 @@
+{
+  "address": "0x77700081d896b37a7be8952b613189a9949a833d",
+  "network": "avax",
+  "holdings": [
+    {
+      "token": "Benqi",
+      "symbol": "QI",
+      "quantity": 95.47812925228754,
+      "value_usd": 911.6073165516526
+    },
+    {
+      "token": "Pangolin",
+      "symbol": "PNG",
+      "quantity": 95.47812925228754,
+      "value_usd": 911.6073165516526
+    }
+  ],
+  "total_value_usd": 1823.2146331033052,
+  "last_updated": "2025-06-21T21:59:43.218Z"
+}

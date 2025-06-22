@@ -1,0 +1,38 @@
+{
+  "address": "0x0f0067cd819cb8f20bda62046daff7a2b5c88280",
+  "network": "polygon_pos",
+  "holdings": [
+    {
+      "token": "Ethereum",
+      "symbol": "ETH",
+      "quantity": 9.533757853800125,
+      "value_usd": 46770.801446150996
+    },
+    {
+      "token": "USD Coin",
+      "symbol": "USDC",
+      "quantity": 9533.757853800125,
+      "value_usd": 9706.473254419134
+    },
+    {
+      "token": "Tether",
+      "symbol": "USDT",
+      "quantity": 9533.757853800125,
+      "value_usd": 9706.473254419134
+    },
+    {
+      "token": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "quantity": 9.533757853800125,
+      "value_usd": 563045.5929995112
+    },
+    {
+      "token": "Polygon",
+      "symbol": "MATIC",
+      "quantity": 953.3757853800125,
+      "value_usd": 90892.53881489557
+    }
+  ],
+  "total_value_usd": 720121.879769396,
+  "last_updated": "2025-06-21T21:59:19.184Z"
+}

@@ -1,0 +1,26 @@
+{
+  "address": "0x3bb5c8a00190da68059f0f66c24794584eb10d07",
+  "network": "scroll",
+  "holdings": [
+    {
+      "token": "Ethereum",
+      "symbol": "ETH",
+      "quantity": 6.475648951162384,
+      "value_usd": 27767.646741077908
+    },
+    {
+      "token": "USD Coin",
+      "symbol": "USDC",
+      "quantity": 6475.648951162384,
+      "value_usd": 6512.949969890952
+    },
+    {
+      "token": "Tether",
+      "symbol": "USDT",
+      "quantity": 6475.648951162384,
+      "value_usd": 6512.949969890952
+    }
+  ],
+  "total_value_usd": 40793.54668085981,
+  "last_updated": "2025-06-21T22:04:13.698Z"
+}

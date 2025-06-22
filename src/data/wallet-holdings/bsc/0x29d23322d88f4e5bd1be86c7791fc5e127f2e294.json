@@ -1,0 +1,20 @@
+{
+  "address": "0x29d23322d88f4e5bd1be86c7791fc5e127f2e294",
+  "network": "bsc",
+  "holdings": [
+    {
+      "token": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "quantity": 193.39277654925354,
+      "value_usd": 3740.076602142951
+    },
+    {
+      "token": "Venus",
+      "symbol": "XVS",
+      "quantity": 193.39277654925354,
+      "value_usd": 3740.076602142951
+    }
+  ],
+  "total_value_usd": 7480.153204285902,
+  "last_updated": "2025-06-21T21:58:59.153Z"
+}

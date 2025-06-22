@@ -1,0 +1,26 @@
+{
+  "address": "0xe6ad22503d39c35662f83d406d433652f2813d44",
+  "network": "base",
+  "holdings": [
+    {
+      "token": "Bald",
+      "symbol": "BALD",
+      "quantity": 412.33125546219526,
+      "value_usd": 17001.706423103013
+    },
+    {
+      "token": "Degen",
+      "symbol": "DEGEN",
+      "quantity": 412.33125546219526,
+      "value_usd": 17001.706423103013
+    },
+    {
+      "token": "Aerodrome",
+      "symbol": "AERO",
+      "quantity": 412.33125546219526,
+      "value_usd": 17001.706423103013
+    }
+  ],
+  "total_value_usd": 51005.11926930904,
+  "last_updated": "2025-06-21T22:01:57.441Z"
+}

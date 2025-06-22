@@ -1,0 +1,20 @@
+{
+  "address": "0x05ebd885c8b4aa1c7fa5ee677d0111a5e83cbe20",
+  "network": "arbitrum",
+  "holdings": [
+    {
+      "token": "Camelot",
+      "symbol": "GRAIL",
+      "quantity": 125.9661691418853,
+      "value_usd": 1586.7475768282056
+    },
+    {
+      "token": "Dopex",
+      "symbol": "DPX",
+      "quantity": 125.9661691418853,
+      "value_usd": 1586.7475768282056
+    }
+  ],
+  "total_value_usd": 3173.4951536564113,
+  "last_updated": "2025-06-21T22:00:27.287Z"
+}

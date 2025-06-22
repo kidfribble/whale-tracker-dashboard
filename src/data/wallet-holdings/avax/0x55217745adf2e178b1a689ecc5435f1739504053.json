@@ -1,0 +1,26 @@
+{
+  "address": "0x55217745adf2e178b1a689ecc5435f1739504053",
+  "network": "avax",
+  "holdings": [
+    {
+      "token": "Benqi",
+      "symbol": "QI",
+      "quantity": 404.80091011921104,
+      "value_usd": 16386.377683334158
+    },
+    {
+      "token": "Pangolin",
+      "symbol": "PNG",
+      "quantity": 404.80091011921104,
+      "value_usd": 16386.377683334158
+    },
+    {
+      "token": "Trader Joe",
+      "symbol": "JOE",
+      "quantity": 404.80091011921104,
+      "value_usd": 16386.377683334158
+    }
+  ],
+  "total_value_usd": 49159.13305000248,
+  "last_updated": "2025-06-21T21:59:49.226Z"
+}

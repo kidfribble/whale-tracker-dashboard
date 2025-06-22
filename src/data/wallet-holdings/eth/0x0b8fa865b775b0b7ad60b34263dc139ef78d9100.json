@@ -1,0 +1,20 @@
+{
+  "address": "0x0b8fa865b775b0b7ad60b34263dc139ef78d9100",
+  "network": "eth",
+  "holdings": [
+    {
+      "token": "Compound",
+      "symbol": "COMP",
+      "quantity": 64.63469683561925,
+      "value_usd": 417.76440350324094
+    },
+    {
+      "token": "Aave",
+      "symbol": "AAVE",
+      "quantity": 64.63469683561925,
+      "value_usd": 417.76440350324094
+    }
+  ],
+  "total_value_usd": 835.5288070064819,
+  "last_updated": "2025-06-21T21:53:06.647Z"
+}

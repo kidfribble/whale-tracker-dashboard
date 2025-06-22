@@ -1,0 +1,20 @@
+{
+  "address": "0x9a94c253ead016feef368061a0b3778bf605b958",
+  "network": "sepolia-testnet",
+  "holdings": [
+    {
+      "token": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "quantity": 0.9765744312271636,
+      "value_usd": 40792.35134323592
+    },
+    {
+      "token": "Tether",
+      "symbol": "USDT",
+      "quantity": 976.5744312271636,
+      "value_usd": 960.501690790919
+    }
+  ],
+  "total_value_usd": 41752.85303402683,
+  "last_updated": "2025-06-21T22:02:53.549Z"
+}

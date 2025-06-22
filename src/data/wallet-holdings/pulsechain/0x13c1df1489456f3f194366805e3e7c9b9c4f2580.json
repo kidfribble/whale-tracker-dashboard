@@ -1,0 +1,20 @@
+{
+  "address": "0x13c1df1489456f3f194366805e3e7c9b9c4f2580",
+  "network": "pulsechain",
+  "holdings": [
+    {
+      "token": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "quantity": 2.323017432937013,
+      "value_usd": 103353.23923755238
+    },
+    {
+      "token": "Tether",
+      "symbol": "USDT",
+      "quantity": 2323.017432937013,
+      "value_usd": 2297.4221681184163
+    }
+  ],
+  "total_value_usd": 105650.66140567079,
+  "last_updated": "2025-06-21T22:01:37.402Z"
+}

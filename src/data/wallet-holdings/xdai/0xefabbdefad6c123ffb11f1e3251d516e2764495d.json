@@ -1,0 +1,20 @@
+{
+  "address": "0xefabbdefad6c123ffb11f1e3251d516e2764495d",
+  "network": "xdai",
+  "holdings": [
+    {
+      "token": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "quantity": 1.7803715683074188,
+      "value_usd": 77258.67235736075
+    },
+    {
+      "token": "Tether",
+      "symbol": "USDT",
+      "quantity": 1780.3715683074188,
+      "value_usd": 1756.8517561913984
+    }
+  ],
+  "total_value_usd": 79015.52411355215,
+  "last_updated": "2025-06-21T22:00:51.329Z"
+}

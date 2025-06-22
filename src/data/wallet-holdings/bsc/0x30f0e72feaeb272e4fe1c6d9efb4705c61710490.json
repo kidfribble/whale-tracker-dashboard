@@ -1,0 +1,26 @@
+{
+  "address": "0x30f0e72feaeb272e4fe1c6d9efb4705c61710490",
+  "network": "bsc",
+  "holdings": [
+    {
+      "token": "Alpaca Finance",
+      "symbol": "ALPACA",
+      "quantity": 410.51033587187703,
+      "value_usd": 16851.87358576413
+    },
+    {
+      "token": "Venus",
+      "symbol": "XVS",
+      "quantity": 410.51033587187703,
+      "value_usd": 16851.87358576413
+    },
+    {
+      "token": "PancakeSwap",
+      "symbol": "CAKE",
+      "quantity": 410.51033587187703,
+      "value_usd": 16851.87358576413
+    }
+  ],
+  "total_value_usd": 50555.62075729239,
+  "last_updated": "2025-06-21T21:59:13.174Z"
+}

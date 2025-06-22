@@ -1,0 +1,20 @@
+{
+  "address": "0x43039ca8f2bf2030777c03e89eec5fcfa6a8d1e6",
+  "network": "flare",
+  "holdings": [
+    {
+      "token": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "quantity": 3.92105201481254,
+      "value_usd": 187109.84564580306
+    },
+    {
+      "token": "Tether",
+      "symbol": "USDT",
+      "quantity": 3921.0520148125397,
+      "value_usd": 3903.166504622892
+    }
+  ],
+  "total_value_usd": 191013.01215042596,
+  "last_updated": "2025-06-21T22:01:11.360Z"
+}

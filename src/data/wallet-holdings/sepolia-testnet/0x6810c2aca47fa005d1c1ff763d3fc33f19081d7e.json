@@ -1,0 +1,26 @@
+{
+  "address": "0x6810c2aca47fa005d1c1ff763d3fc33f19081d7e",
+  "network": "sepolia-testnet",
+  "holdings": [
+    {
+      "token": "Ethereum",
+      "symbol": "ETH",
+      "quantity": 5.362140230544537,
+      "value_usd": 21786.690152031544
+    },
+    {
+      "token": "USD Coin",
+      "symbol": "USDC",
+      "quantity": 5362.140230544537,
+      "value_usd": 5368.902815141606
+    },
+    {
+      "token": "Tether",
+      "symbol": "USDT",
+      "quantity": 5362.140230544537,
+      "value_usd": 5368.902815141606
+    }
+  ],
+  "total_value_usd": 32524.495782314756,
+  "last_updated": "2025-06-21T22:02:55.553Z"
+}

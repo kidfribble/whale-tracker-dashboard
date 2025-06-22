@@ -1,0 +1,26 @@
+{
+  "address": "0x698e32431285bf57169b8c1c493dfe469f977adbf8bdd7efb7dd62021b74eb64",
+  "network": "sui-network",
+  "holdings": [
+    {
+      "token": "Ethereum",
+      "symbol": "ETH",
+      "quantity": 6.627746481062059,
+      "value_usd": 28623.491719776943
+    },
+    {
+      "token": "USD Coin",
+      "symbol": "USDC",
+      "quantity": 6627.746481062059,
+      "value_usd": 6669.996596972634
+    },
+    {
+      "token": "Tether",
+      "symbol": "USDT",
+      "quantity": 6627.746481062059,
+      "value_usd": 6669.996596972634
+    }
+  ],
+  "total_value_usd": 41963.48491372221,
+  "last_updated": "2025-06-21T22:01:23.379Z"
+}
