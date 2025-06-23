@@ -74,7 +74,7 @@ export async function GET(request: NextRequest) {
           holdings: walletHoldings.holdings,
           total_value_usd: walletHoldings.total_value_usd
         });
-      } catch (error) {
+      } catch {
         // If file doesn't exist or can't be read, return no cached data message
         console.log(`No cached data found for wallet ${address} on ${network}.`);
         
