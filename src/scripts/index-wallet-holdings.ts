@@ -2,7 +2,7 @@
 
 import fs from 'fs/promises';
 import path from 'path';
-import axios from 'axios';
+// axios is not used in this file
 
 const RATE_LIMIT_DELAY = 2000; // 2s = 30 calls/minute
 const MAX_RETRIES = 3;
@@ -207,14 +207,19 @@ async function indexWalletHoldings() {
     // Extract unique wallet addresses across all networks
     const walletsByNetwork: Record<string, string[]> = {};
     
-    whalePools.forEach((pool: any) => {
+    interface WhalePool {
+      network: string;
+      whaleTraders: Array<{ address: string }>;
+    }
+    
+    whalePools.forEach((pool: WhalePool) => {
       const network = pool.network;
       
       if (!walletsByNetwork[network]) {
         walletsByNetwork[network] = [];
       }
       
-      pool.whaleTraders.forEach((trader: any) => {
+      pool.whaleTraders.forEach((trader) => {
         if (!walletsByNetwork[network].includes(trader.address)) {
           walletsByNetwork[network].push(trader.address);
         }
@@ -250,7 +255,7 @@ async function indexWalletHoldings() {
           try {
             const fileData = await fs.readFile(walletFile, 'utf-8');
             existingData = JSON.parse(fileData);
-          } catch (err) {
+          } catch {
             // File doesn't exist or can't be read, continue with fetching
           }
           
@@ -286,8 +291,8 @@ async function indexWalletHoldings() {
           
           // Respect rate limits
           await delay(RATE_LIMIT_DELAY);
-        } catch (err) {
-          console.warn(`⚠️ Failed to process wallet ${address}:`, err);
+        } catch (error) {
+          console.warn(`⚠️ Failed to process wallet ${address}:`, error);
           // Continue with next wallet
         }
       }
